@@ -1,0 +1,1712 @@
+,country,state,county,city,google,apple
+0,US,N/A,,N/A,1,0
+1,US,Alabama,Autauga County,N/A,1,0
+2,US,Alabama,Baldwin County,N/A,1,0
+3,US,Alabama,Barbour County,N/A,1,0
+4,US,Alabama,Bibb County,N/A,1,0
+5,US,Alabama,Blount County,N/A,1,0
+6,US,Alabama,Bullock County,N/A,1,0
+7,US,Alabama,Butler County,N/A,1,0
+8,US,Alabama,Calhoun County,N/A,1,0
+9,US,Alabama,Chambers County,N/A,1,0
+10,US,Alabama,Cherokee County,N/A,1,0
+11,US,Alabama,Chilton County,N/A,1,0
+12,US,Alabama,Choctaw County,N/A,1,0
+13,US,Alabama,Clarke County,N/A,1,0
+14,US,Alabama,Clay County,N/A,1,0
+15,US,Alabama,Cleburne County,N/A,1,0
+16,US,Alabama,Coffee County,N/A,1,0
+17,US,Alabama,Colbert County,N/A,1,0
+18,US,Alabama,Conecuh County,N/A,1,0
+19,US,Alabama,Coosa County,N/A,1,0
+20,US,Alabama,Covington County,N/A,1,0
+21,US,Alabama,Crenshaw County,N/A,1,0
+22,US,Alabama,Cullman County,N/A,1,0
+23,US,Alabama,Dale County,N/A,1,0
+24,US,Alabama,Dallas County,Dallas,1,1
+25,US,Alabama,DeKalb County,N/A,1,0
+26,US,Alabama,Elmore County,N/A,1,0
+27,US,Alabama,Escambia County,N/A,1,0
+28,US,Alabama,Etowah County,N/A,1,0
+29,US,Alabama,Fayette County,Lexington,1,1
+30,US,Alabama,Franklin County,Columbus,1,1
+31,US,Alabama,Geneva County,N/A,1,0
+32,US,Alabama,Greene County,N/A,1,0
+33,US,Alabama,Hale County,N/A,1,0
+34,US,Alabama,Henry County,N/A,1,0
+35,US,Alabama,Houston County,N/A,1,0
+36,US,Alabama,Jackson County,Kansas City,1,1
+37,US,Alabama,Jefferson County,Louisville,1,1
+38,US,Alabama,Lamar County,N/A,1,0
+39,US,Alabama,Lauderdale County,N/A,1,0
+40,US,Alabama,Lawrence County,N/A,1,0
+41,US,Alabama,Lee County,N/A,1,0
+42,US,Alabama,Limestone County,N/A,1,0
+43,US,Alabama,Lowndes County,N/A,1,0
+44,US,Alabama,Macon County,N/A,1,0
+45,US,Alabama,Madison County,N/A,1,0
+46,US,Alabama,Marengo County,N/A,1,0
+47,US,Alabama,Marion County,Indianapolis,1,1
+48,US,Alabama,Marshall County,N/A,1,0
+49,US,Alabama,Mobile County,N/A,1,0
+50,US,Alabama,Monroe County,Rochester,1,1
+51,US,Alabama,Montgomery County,N/A,1,0
+52,US,Alabama,Morgan County,N/A,1,0
+53,US,Alabama,Perry County,N/A,1,0
+54,US,Alabama,Pickens County,N/A,1,0
+55,US,Alabama,Pike County,N/A,1,0
+56,US,Alabama,Randolph County,N/A,1,0
+57,US,Alabama,Russell County,N/A,1,0
+58,US,Alabama,Shelby County,Memphis,1,1
+59,US,Alabama,St. Clair County,N/A,1,0
+60,US,Alabama,Sumter County,N/A,1,0
+61,US,Alabama,Talladega County,N/A,1,0
+62,US,Alabama,Tallapoosa County,N/A,1,0
+63,US,Alabama,Tuscaloosa County,N/A,1,0
+64,US,Alabama,Walker County,N/A,1,0
+65,US,Alabama,Washington County,N/A,1,0
+66,US,Alabama,Wilcox County,N/A,1,0
+67,US,Alabama,Winston County,N/A,1,0
+68,US,Alaska,Anchorage,N/A,1,0
+69,US,Alaska,Bethel,N/A,1,0
+70,US,Alaska,Fairbanks North Star,N/A,1,0
+71,US,Alaska,Juneau,N/A,1,0
+72,US,Alaska,Kenai Peninsula Borough,N/A,1,0
+73,US,Alaska,Ketchikan Gateway,N/A,1,0
+74,US,Alaska,Kodiak Island,N/A,1,0
+75,US,Alaska,Matanuska-Susitna,N/A,1,0
+76,US,Alaska,North Slope,N/A,1,0
+77,US,Alaska,Sitka,N/A,1,0
+78,US,Alaska,Southeast Fairbanks,N/A,1,0
+79,US,Alaska,Valdez-Cordova,N/A,1,0
+80,US,Arizona,Apache County,N/A,1,0
+81,US,Arizona,Cochise County,N/A,1,0
+82,US,Arizona,Coconino County,N/A,1,0
+83,US,Arizona,Gila County,N/A,1,0
+84,US,Arizona,Graham County,N/A,1,0
+85,US,Arizona,Greenlee County,N/A,1,0
+86,US,Arizona,La Paz County,N/A,1,0
+87,US,Arizona,Maricopa County,Phoenix,1,1
+88,US,Arizona,Mohave County,N/A,1,0
+89,US,Arizona,Navajo County,N/A,1,0
+90,US,Arizona,Pima County,Tucson,1,1
+91,US,Arizona,Pinal County,N/A,1,0
+92,US,Arizona,Santa Cruz County,N/A,1,0
+93,US,Arizona,Yavapai County,N/A,1,0
+94,US,Arizona,Yuma County,N/A,1,0
+95,US,Arkansas,Arkansas County,N/A,1,0
+96,US,Arkansas,Ashley County,N/A,1,0
+97,US,Arkansas,Baxter County,N/A,1,0
+98,US,Arkansas,Benton County,N/A,1,0
+99,US,Arkansas,Boone County,N/A,1,0
+100,US,Arkansas,Bradley County,N/A,1,0
+101,US,Arkansas,Carroll County,N/A,1,0
+102,US,Arkansas,Chicot County,N/A,1,0
+103,US,Arkansas,Clark County,Las Vegas,1,1
+104,US,Arkansas,Cleveland County,N/A,1,0
+105,US,Arkansas,Columbia County,N/A,1,0
+106,US,Arkansas,Conway County,N/A,1,0
+107,US,Arkansas,Craighead County,N/A,1,0
+108,US,Arkansas,Crawford County,N/A,1,0
+109,US,Arkansas,Crittenden County,N/A,1,0
+110,US,Arkansas,Cross County,N/A,1,0
+111,US,Arkansas,Desha County,N/A,1,0
+112,US,Arkansas,Drew County,N/A,1,0
+113,US,Arkansas,Faulkner County,N/A,1,0
+114,US,Arkansas,Fulton County,Atlanta,1,1
+115,US,Arkansas,Garland County,N/A,1,0
+116,US,Arkansas,Grant County,N/A,1,0
+117,US,Arkansas,Hempstead County,N/A,1,0
+118,US,Arkansas,Hot Spring County,N/A,1,0
+119,US,Arkansas,Howard County,N/A,1,0
+120,US,Arkansas,Independence County,N/A,1,0
+121,US,Arkansas,Izard County,N/A,1,0
+122,US,Arkansas,Johnson County,N/A,1,0
+123,US,Arkansas,Lafayette County,N/A,1,0
+124,US,Arkansas,Lincoln County,N/A,1,0
+125,US,Arkansas,Little River County,N/A,1,0
+126,US,Arkansas,Logan County,N/A,1,0
+127,US,Arkansas,Lonoke County,N/A,1,0
+128,US,Arkansas,Miller County,N/A,1,0
+129,US,Arkansas,Mississippi County,N/A,1,0
+130,US,Arkansas,Nevada County,N/A,1,0
+131,US,Arkansas,Newton County,N/A,1,0
+132,US,Arkansas,Ouachita County,N/A,1,0
+133,US,Arkansas,Phillips County,N/A,1,0
+134,US,Arkansas,Poinsett County,N/A,1,0
+135,US,Arkansas,Polk County,N/A,1,0
+136,US,Arkansas,Pope County,N/A,1,0
+137,US,Arkansas,Prairie County,N/A,1,0
+138,US,Arkansas,Pulaski County,N/A,1,0
+139,US,Arkansas,Saline County,N/A,1,0
+140,US,Arkansas,Scott County,N/A,1,0
+141,US,Arkansas,Searcy County,N/A,1,0
+142,US,Arkansas,Sebastian County,N/A,1,0
+143,US,Arkansas,Sevier County,N/A,1,0
+144,US,Arkansas,Sharp County,N/A,1,0
+145,US,Arkansas,St. Francis County,N/A,1,0
+146,US,Arkansas,Stone County,N/A,1,0
+147,US,Arkansas,Union County,N/A,1,0
+148,US,Arkansas,Van Buren County,N/A,1,0
+149,US,Arkansas,White County,N/A,1,0
+150,US,Arkansas,Yell County,N/A,1,0
+151,US,California,Alameda County,N/A,1,0
+152,US,California,Amador County,N/A,1,0
+153,US,California,Butte County,N/A,1,0
+154,US,California,Calaveras County,N/A,1,0
+155,US,California,Colusa County,N/A,1,0
+156,US,California,Contra Costa County,N/A,1,0
+157,US,California,Del Norte County,N/A,1,0
+158,US,California,El Dorado County,N/A,1,0
+159,US,California,Fresno County,Fresno,1,1
+160,US,California,Glenn County,N/A,1,0
+161,US,California,Humboldt County,N/A,1,0
+162,US,California,Imperial County,N/A,1,0
+163,US,California,Inyo County,N/A,1,0
+164,US,California,Kern County,Bakersfield,1,1
+165,US,California,Kings County,N/A,1,0
+166,US,California,Lake County,N/A,1,0
+167,US,California,Lassen County,N/A,1,0
+168,US,California,Los Angeles County,N/A,1,0
+169,US,California,Madera County,N/A,1,0
+170,US,California,Marin County,N/A,1,0
+171,US,California,Mariposa County,N/A,1,0
+172,US,California,Mendocino County,N/A,1,0
+173,US,California,Merced County,N/A,1,0
+174,US,California,Modoc County,N/A,1,0
+175,US,California,Mono County,N/A,1,0
+176,US,California,Monterey County,Monterey,1,1
+177,US,California,Napa County,N/A,1,0
+178,US,California,Orange County,Orlando,1,1
+179,US,California,Placer County,N/A,1,0
+180,US,California,Plumas County,N/A,1,0
+181,US,California,Riverside County,N/A,1,0
+182,US,California,Sacramento County,Sacramento,1,1
+183,US,California,San Benito County,N/A,1,0
+184,US,California,San Bernardino County,N/A,1,0
+185,US,California,San Diego County,N/A,1,0
+186,US,California,San Francisco County,N/A,1,0
+187,US,California,San Joaquin County,N/A,1,0
+188,US,California,San Luis Obispo County,N/A,1,0
+189,US,California,San Mateo County,N/A,1,0
+190,US,California,Santa Barbara County,N/A,1,0
+191,US,California,Santa Clara County,N/A,1,0
+192,US,California,Shasta County,N/A,1,0
+193,US,California,Siskiyou County,N/A,1,0
+194,US,California,Solano County,N/A,1,0
+195,US,California,Sonoma County,N/A,1,0
+196,US,California,Stanislaus County,Modesto,1,1
+197,US,California,Sutter County,N/A,1,0
+198,US,California,Tehama County,N/A,1,0
+199,US,California,Trinity County,N/A,1,0
+200,US,California,Tulare County,N/A,1,0
+201,US,California,Tuolumne County,N/A,1,0
+202,US,California,Ventura County,N/A,1,0
+203,US,California,Yolo County,N/A,1,0
+204,US,California,Yuba County,N/A,1,0
+205,US,Colorado,Adams County,N/A,1,0
+206,US,Colorado,Alamosa County,N/A,1,0
+207,US,Colorado,Arapahoe County,N/A,1,0
+208,US,Colorado,Archuleta County,N/A,1,0
+209,US,Colorado,Bent County,N/A,1,0
+210,US,Colorado,Boulder County,N/A,1,0
+211,US,Colorado,Broomfield County,N/A,1,0
+212,US,Colorado,Chaffee County,N/A,1,0
+213,US,Colorado,Clear Creek County,N/A,1,0
+214,US,Colorado,Conejos County,N/A,1,0
+215,US,Colorado,Delta County,N/A,1,0
+216,US,Colorado,Denver County,Denver,1,1
+217,US,Colorado,Douglas County,Omaha,1,1
+218,US,Colorado,Eagle County,N/A,1,0
+219,US,Colorado,El Paso County,N/A,1,0
+220,US,Colorado,Elbert County,N/A,1,0
+221,US,Colorado,Fremont County,N/A,1,0
+222,US,Colorado,Garfield County,N/A,1,0
+223,US,Colorado,Gilpin County,N/A,1,0
+224,US,Colorado,Grand County,N/A,1,0
+225,US,Colorado,Gunnison County,N/A,1,0
+226,US,Colorado,Huerfano County,N/A,1,0
+227,US,Colorado,Kiowa County,N/A,1,0
+228,US,Colorado,Kit Carson County,N/A,1,0
+229,US,Colorado,La Plata County,N/A,1,0
+230,US,Colorado,Larimer County,N/A,1,0
+231,US,Colorado,Las Animas County,N/A,1,0
+232,US,Colorado,Mesa County,N/A,1,0
+233,US,Colorado,Moffat County,N/A,1,0
+234,US,Colorado,Montezuma County,N/A,1,0
+235,US,Colorado,Montrose County,N/A,1,0
+236,US,Colorado,Otero County,N/A,1,0
+237,US,Colorado,Ouray County,N/A,1,0
+238,US,Colorado,Park County,N/A,1,0
+239,US,Colorado,Pitkin County,N/A,1,0
+240,US,Colorado,Prowers County,N/A,1,0
+241,US,Colorado,Pueblo County,N/A,1,0
+242,US,Colorado,Rio Blanco County,N/A,1,0
+243,US,Colorado,Rio Grande County,N/A,1,0
+244,US,Colorado,Routt County,N/A,1,0
+245,US,Colorado,Saguache County,N/A,1,0
+246,US,Colorado,San Miguel County,N/A,1,0
+247,US,Colorado,Summit County,N/A,1,0
+248,US,Colorado,Teller County,N/A,1,0
+249,US,Colorado,Weld County,N/A,1,0
+250,US,Connecticut,Fairfield County,Bridgeport,1,1
+251,US,Connecticut,Hartford County,Hartford,1,1
+252,US,Connecticut,Litchfield County,N/A,1,0
+253,US,Connecticut,Middlesex County,N/A,1,0
+254,US,Connecticut,New Haven County,N/A,1,0
+255,US,Connecticut,New London County,N/A,1,0
+256,US,Connecticut,Tolland County,N/A,1,0
+257,US,Connecticut,Windham County,N/A,1,0
+258,US,Delaware,Kent County,Grand Rapids,1,1
+259,US,Delaware,New Castle County,N/A,1,0
+260,US,Delaware,Sussex County,N/A,1,0
+261,US,Florida,Alachua County,N/A,1,0
+262,US,Florida,Baker County,N/A,1,0
+263,US,Florida,Bay County,N/A,1,0
+264,US,Florida,Bradford County,N/A,1,0
+265,US,Florida,Brevard County,N/A,1,0
+266,US,Florida,Broward County,N/A,1,0
+267,US,Florida,Charlotte County,N/A,1,0
+268,US,Florida,Citrus County,N/A,1,0
+269,US,Florida,Collier County,N/A,1,0
+270,US,Florida,DeSoto County,N/A,1,0
+271,US,Florida,Dixie County,N/A,1,0
+272,US,Florida,Duval County,Jacksonville,1,1
+273,US,Florida,Flagler County,N/A,1,0
+274,US,Florida,Gadsden County,N/A,1,0
+275,US,Florida,Gilchrist County,N/A,1,0
+276,US,Florida,Glades County,N/A,1,0
+277,US,Florida,Gulf County,N/A,1,0
+278,US,Florida,Hamilton County,Cincinnati,1,1
+279,US,Florida,Hardee County,N/A,1,0
+280,US,Florida,Hendry County,N/A,1,0
+281,US,Florida,Hernando County,N/A,1,0
+282,US,Florida,Highlands County,N/A,1,0
+283,US,Florida,Hillsborough County,Tampa,1,1
+284,US,Florida,Holmes County,N/A,1,0
+285,US,Florida,Indian River County,N/A,1,0
+286,US,Florida,Leon County,N/A,1,0
+287,US,Florida,Levy County,N/A,1,0
+288,US,Florida,Liberty County,N/A,1,0
+289,US,Florida,Manatee County,N/A,1,0
+290,US,Florida,Martin County,N/A,1,0
+291,US,Florida,Miami-Dade County,Miami,1,1
+292,US,Florida,Nassau County,N/A,1,0
+293,US,Florida,Okaloosa County,N/A,1,0
+294,US,Florida,Okeechobee County,N/A,1,0
+295,US,Florida,Osceola County,N/A,1,0
+296,US,Florida,Palm Beach County,N/A,1,0
+297,US,Florida,Pasco County,N/A,1,0
+298,US,Florida,Pinellas County,N/A,1,0
+299,US,Florida,Putnam County,N/A,1,0
+300,US,Florida,Santa Rosa County,N/A,1,0
+301,US,Florida,Sarasota County,N/A,1,0
+302,US,Florida,Seminole County,N/A,1,0
+303,US,Florida,St. Johns County,N/A,1,0
+304,US,Florida,St. Lucie County,N/A,1,0
+305,US,Florida,Suwannee County,N/A,1,0
+306,US,Florida,Taylor County,N/A,1,0
+307,US,Florida,Volusia County,N/A,1,0
+308,US,Florida,Wakulla County,N/A,1,0
+309,US,Florida,Walton County,N/A,1,0
+310,US,Georgia,Appling County,N/A,1,0
+311,US,Georgia,Atkinson County,N/A,1,0
+312,US,Georgia,Bacon County,N/A,1,0
+313,US,Georgia,Banks County,N/A,1,0
+314,US,Georgia,Barrow County,N/A,1,0
+315,US,Georgia,Bartow County,N/A,1,0
+316,US,Georgia,Ben Hill County,N/A,1,0
+317,US,Georgia,Berrien County,N/A,1,0
+318,US,Georgia,Bleckley County,N/A,1,0
+319,US,Georgia,Brantley County,N/A,1,0
+320,US,Georgia,Brooks County,N/A,1,0
+321,US,Georgia,Bryan County,N/A,1,0
+322,US,Georgia,Bulloch County,N/A,1,0
+323,US,Georgia,Burke County,N/A,1,0
+324,US,Georgia,Butts County,N/A,1,0
+325,US,Georgia,Camden County,N/A,1,0
+326,US,Georgia,Candler County,N/A,1,0
+327,US,Georgia,Catoosa County,N/A,1,0
+328,US,Georgia,Charlton County,N/A,1,0
+329,US,Georgia,Chatham County,N/A,1,0
+330,US,Georgia,Chattahoochee County,N/A,1,0
+331,US,Georgia,Chattooga County,N/A,1,0
+332,US,Georgia,Clayton County,N/A,1,0
+333,US,Georgia,Clinch County,N/A,1,0
+334,US,Georgia,Cobb County,N/A,1,0
+335,US,Georgia,Colquitt County,N/A,1,0
+336,US,Georgia,Cook County,Chicago,1,1
+337,US,Georgia,Coweta County,N/A,1,0
+338,US,Georgia,Crisp County,N/A,1,0
+339,US,Georgia,Dade County,N/A,1,0
+340,US,Georgia,Dawson County,N/A,1,0
+341,US,Georgia,Decatur County,N/A,1,0
+342,US,Georgia,Dodge County,N/A,1,0
+343,US,Georgia,Dooly County,N/A,1,0
+344,US,Georgia,Dougherty County,N/A,1,0
+345,US,Georgia,Early County,N/A,1,0
+346,US,Georgia,Effingham County,N/A,1,0
+347,US,Georgia,Emanuel County,N/A,1,0
+348,US,Georgia,Evans County,N/A,1,0
+349,US,Georgia,Fannin County,N/A,1,0
+350,US,Georgia,Floyd County,N/A,1,0
+351,US,Georgia,Forsyth County,N/A,1,0
+352,US,Georgia,Gilmer County,N/A,1,0
+353,US,Georgia,Glynn County,N/A,1,0
+354,US,Georgia,Gordon County,N/A,1,0
+355,US,Georgia,Grady County,N/A,1,0
+356,US,Georgia,Gwinnett County,N/A,1,0
+357,US,Georgia,Habersham County,N/A,1,0
+358,US,Georgia,Hall County,N/A,1,0
+359,US,Georgia,Hancock County,N/A,1,0
+360,US,Georgia,Haralson County,N/A,1,0
+361,US,Georgia,Harris County,Houston,1,1
+362,US,Georgia,Hart County,N/A,1,0
+363,US,Georgia,Heard County,N/A,1,0
+364,US,Georgia,Irwin County,N/A,1,0
+365,US,Georgia,Jasper County,N/A,1,0
+366,US,Georgia,Jeff Davis County,N/A,1,0
+367,US,Georgia,Jenkins County,N/A,1,0
+368,US,Georgia,Jones County,N/A,1,0
+369,US,Georgia,Lanier County,N/A,1,0
+370,US,Georgia,Laurens County,N/A,1,0
+371,US,Georgia,Long County,N/A,1,0
+372,US,Georgia,Lumpkin County,N/A,1,0
+373,US,Georgia,McDuffie County,N/A,1,0
+374,US,Georgia,McIntosh County,N/A,1,0
+375,US,Georgia,Meriwether County,N/A,1,0
+376,US,Georgia,Mitchell County,N/A,1,0
+377,US,Georgia,Murray County,N/A,1,0
+378,US,Georgia,Muscogee County,N/A,1,0
+379,US,Georgia,Oconee County,N/A,1,0
+380,US,Georgia,Oglethorpe County,N/A,1,0
+381,US,Georgia,Paulding County,N/A,1,0
+382,US,Georgia,Peach County,N/A,1,0
+383,US,Georgia,Pierce County,Tacoma,1,1
+384,US,Georgia,Rabun County,N/A,1,0
+385,US,Georgia,Richmond County,Richmond,1,1
+386,US,Georgia,Rockdale County,N/A,1,0
+387,US,Georgia,Schley County,N/A,1,0
+388,US,Georgia,Screven County,N/A,1,0
+389,US,Georgia,Spalding County,N/A,1,0
+390,US,Georgia,Stephens County,N/A,1,0
+391,US,Georgia,Talbot County,N/A,1,0
+392,US,Georgia,Tattnall County,N/A,1,0
+393,US,Georgia,Telfair County,N/A,1,0
+394,US,Georgia,Terrell County,N/A,1,0
+395,US,Georgia,Thomas County,N/A,1,0
+396,US,Georgia,Tift County,N/A,1,0
+397,US,Georgia,Toombs County,N/A,1,0
+398,US,Georgia,Towns County,N/A,1,0
+399,US,Georgia,Treutlen County,N/A,1,0
+400,US,Georgia,Troup County,N/A,1,0
+401,US,Georgia,Turner County,N/A,1,0
+402,US,Georgia,Twiggs County,N/A,1,0
+403,US,Georgia,Upson County,N/A,1,0
+404,US,Georgia,Ware County,N/A,1,0
+405,US,Georgia,Warren County,N/A,1,0
+406,US,Georgia,Wayne County,Detroit,1,1
+407,US,Georgia,Whitfield County,N/A,1,0
+408,US,Georgia,Wilkes County,N/A,1,0
+409,US,Georgia,Wilkinson County,N/A,1,0
+410,US,Georgia,Worth County,N/A,1,0
+411,US,Hawaii,Hawaii County,N/A,1,0
+412,US,Hawaii,Honolulu County,Honolulu,1,1
+413,US,Hawaii,Kauai County,N/A,1,0
+414,US,Hawaii,Maui County,N/A,1,0
+415,US,Idaho,Ada County,N/A,1,0
+416,US,Idaho,Bannock County,N/A,1,0
+417,US,Idaho,Bear Lake County,N/A,1,0
+418,US,Idaho,Benewah County,N/A,1,0
+419,US,Idaho,Bingham County,N/A,1,0
+420,US,Idaho,Blaine County,N/A,1,0
+421,US,Idaho,Boise County,N/A,1,0
+422,US,Idaho,Bonner County,N/A,1,0
+423,US,Idaho,Bonneville County,N/A,1,0
+424,US,Idaho,Boundary County,N/A,1,0
+425,US,Idaho,Canyon County,N/A,1,0
+426,US,Idaho,Caribou County,N/A,1,0
+427,US,Idaho,Cassia County,N/A,1,0
+428,US,Idaho,Clearwater County,N/A,1,0
+429,US,Idaho,Gem County,N/A,1,0
+430,US,Idaho,Gooding County,N/A,1,0
+431,US,Idaho,Idaho County,N/A,1,0
+432,US,Idaho,Jerome County,N/A,1,0
+433,US,Idaho,Kootenai County,N/A,1,0
+434,US,Idaho,Latah County,N/A,1,0
+435,US,Idaho,Lemhi County,N/A,1,0
+436,US,Idaho,Minidoka County,N/A,1,0
+437,US,Idaho,Nez Perce County,N/A,1,0
+438,US,Idaho,Oneida County,N/A,1,0
+439,US,Idaho,Owyhee County,N/A,1,0
+440,US,Idaho,Payette County,N/A,1,0
+441,US,Idaho,Power County,N/A,1,0
+442,US,Idaho,Shoshone County,N/A,1,0
+443,US,Idaho,Teton County,N/A,1,0
+444,US,Idaho,Twin Falls County,N/A,1,0
+445,US,Idaho,Valley County,N/A,1,0
+446,US,Illinois,Alexander County,N/A,1,0
+447,US,Illinois,Bond County,N/A,1,0
+448,US,Illinois,Bureau County,N/A,1,0
+449,US,Illinois,Cass County,N/A,1,0
+450,US,Illinois,Champaign County,N/A,1,0
+451,US,Illinois,Christian County,N/A,1,0
+452,US,Illinois,Clinton County,N/A,1,0
+453,US,Illinois,Coles County,N/A,1,0
+454,US,Illinois,Cumberland County,N/A,1,0
+455,US,Illinois,De Witt County,N/A,1,0
+456,US,Illinois,DuPage County,N/A,1,0
+457,US,Illinois,Edgar County,N/A,1,0
+458,US,Illinois,Edwards County,N/A,1,0
+459,US,Illinois,Ford County,N/A,1,0
+460,US,Illinois,Gallatin County,N/A,1,0
+461,US,Illinois,Grundy County,N/A,1,0
+462,US,Illinois,Henderson County,N/A,1,0
+463,US,Illinois,Iroquois County,N/A,1,0
+464,US,Illinois,Jersey County,N/A,1,0
+465,US,Illinois,Jo Daviess County,N/A,1,0
+466,US,Illinois,Kane County,N/A,1,0
+467,US,Illinois,Kankakee County,N/A,1,0
+468,US,Illinois,Kendall County,N/A,1,0
+469,US,Illinois,Knox County,N/A,1,0
+470,US,Illinois,LaSalle County,N/A,1,0
+471,US,Illinois,Livingston County,N/A,1,0
+472,US,Illinois,Macoupin County,N/A,1,0
+473,US,Illinois,Mason County,N/A,1,0
+474,US,Illinois,Massac County,N/A,1,0
+475,US,Illinois,McDonough County,N/A,1,0
+476,US,Illinois,McHenry County,N/A,1,0
+477,US,Illinois,McLean County,N/A,1,0
+478,US,Illinois,Menard County,N/A,1,0
+479,US,Illinois,Mercer County,N/A,1,0
+480,US,Illinois,Moultrie County,N/A,1,0
+481,US,Illinois,Ogle County,N/A,1,0
+482,US,Illinois,Peoria County,N/A,1,0
+483,US,Illinois,Piatt County,N/A,1,0
+484,US,Illinois,Richland County,N/A,1,0
+485,US,Illinois,Rock Island County,N/A,1,0
+486,US,Illinois,Sangamon County,N/A,1,0
+487,US,Illinois,Schuyler County,N/A,1,0
+488,US,Illinois,Stark County,N/A,1,0
+489,US,Illinois,Stephenson County,N/A,1,0
+490,US,Illinois,Tazewell County,N/A,1,0
+491,US,Illinois,Vermilion County,N/A,1,0
+492,US,Illinois,Wabash County,N/A,1,0
+493,US,Illinois,Whiteside County,N/A,1,0
+494,US,Illinois,Will County,N/A,1,0
+495,US,Illinois,Williamson County,N/A,1,0
+496,US,Illinois,Winnebago County,N/A,1,0
+497,US,Illinois,Woodford County,N/A,1,0
+498,US,Indiana,Allen County,N/A,1,0
+499,US,Indiana,Bartholomew County,N/A,1,0
+500,US,Indiana,Blackford County,N/A,1,0
+501,US,Indiana,Brown County,N/A,1,0
+502,US,Indiana,Daviess County,N/A,1,0
+503,US,Indiana,Dearborn County,N/A,1,0
+504,US,Indiana,Delaware County,N/A,1,0
+505,US,Indiana,Dubois County,N/A,1,0
+506,US,Indiana,Elkhart County,N/A,1,0
+507,US,Indiana,Fountain County,N/A,1,0
+508,US,Indiana,Gibson County,N/A,1,0
+509,US,Indiana,Harrison County,N/A,1,0
+510,US,Indiana,Hendricks County,N/A,1,0
+511,US,Indiana,Huntington County,N/A,1,0
+512,US,Indiana,Jay County,N/A,1,0
+513,US,Indiana,Jennings County,N/A,1,0
+514,US,Indiana,Kosciusko County,N/A,1,0
+515,US,Indiana,LaGrange County,N/A,1,0
+516,US,Indiana,LaPorte County,N/A,1,0
+517,US,Indiana,Miami County,N/A,1,0
+518,US,Indiana,Noble County,N/A,1,0
+519,US,Indiana,Ohio County,N/A,1,0
+520,US,Indiana,Owen County,N/A,1,0
+521,US,Indiana,Parke County,N/A,1,0
+522,US,Indiana,Porter County,N/A,1,0
+523,US,Indiana,Posey County,N/A,1,0
+524,US,Indiana,Ripley County,N/A,1,0
+525,US,Indiana,Rush County,N/A,1,0
+526,US,Indiana,Spencer County,N/A,1,0
+527,US,Indiana,St. Joseph County,N/A,1,0
+528,US,Indiana,Starke County,N/A,1,0
+529,US,Indiana,Steuben County,N/A,1,0
+530,US,Indiana,Sullivan County,N/A,1,0
+531,US,Indiana,Switzerland County,N/A,1,0
+532,US,Indiana,Tippecanoe County,N/A,1,0
+533,US,Indiana,Tipton County,N/A,1,0
+534,US,Indiana,Vanderburgh County,N/A,1,0
+535,US,Indiana,Vermillion County,N/A,1,0
+536,US,Indiana,Vigo County,N/A,1,0
+537,US,Indiana,Warrick County,N/A,1,0
+538,US,Indiana,Wells County,N/A,1,0
+539,US,Indiana,Whitley County,N/A,1,0
+540,US,Iowa,Adair County,N/A,1,0
+541,US,Iowa,Allamakee County,N/A,1,0
+542,US,Iowa,Appanoose County,N/A,1,0
+543,US,Iowa,Audubon County,N/A,1,0
+544,US,Iowa,Black Hawk County,N/A,1,0
+545,US,Iowa,Bremer County,N/A,1,0
+546,US,Iowa,Buchanan County,N/A,1,0
+547,US,Iowa,Buena Vista County,N/A,1,0
+548,US,Iowa,Cedar County,N/A,1,0
+549,US,Iowa,Cerro Gordo County,N/A,1,0
+550,US,Iowa,Chickasaw County,N/A,1,0
+551,US,Iowa,Davis County,N/A,1,0
+552,US,Iowa,Des Moines County,N/A,1,0
+553,US,Iowa,Dickinson County,N/A,1,0
+554,US,Iowa,Dubuque County,N/A,1,0
+555,US,Iowa,Emmet County,N/A,1,0
+556,US,Iowa,Guthrie County,N/A,1,0
+557,US,Iowa,Hardin County,N/A,1,0
+558,US,Iowa,Ida County,N/A,1,0
+559,US,Iowa,Iowa County,N/A,1,0
+560,US,Iowa,Keokuk County,N/A,1,0
+561,US,Iowa,Kossuth County,N/A,1,0
+562,US,Iowa,Linn County,N/A,1,0
+563,US,Iowa,Louisa County,N/A,1,0
+564,US,Iowa,Lucas County,Toledo,1,1
+565,US,Iowa,Lyon County,N/A,1,0
+566,US,Iowa,Mahaska County,N/A,1,0
+567,US,Iowa,Mills County,N/A,1,0
+568,US,Iowa,Monona County,N/A,1,0
+569,US,Iowa,Muscatine County,N/A,1,0
+570,US,Iowa,O'Brien County,N/A,1,0
+571,US,Iowa,Page County,N/A,1,0
+572,US,Iowa,Palo Alto County,N/A,1,0
+573,US,Iowa,Plymouth County,N/A,1,0
+574,US,Iowa,Pocahontas County,N/A,1,0
+575,US,Iowa,Pottawattamie County,N/A,1,0
+576,US,Iowa,Poweshiek County,N/A,1,0
+577,US,Iowa,Sac County,N/A,1,0
+578,US,Iowa,Sioux County,N/A,1,0
+579,US,Iowa,Story County,N/A,1,0
+580,US,Iowa,Tama County,N/A,1,0
+581,US,Iowa,Wapello County,N/A,1,0
+582,US,Iowa,Webster County,N/A,1,0
+583,US,Iowa,Winneshiek County,N/A,1,0
+584,US,Iowa,Woodbury County,N/A,1,0
+585,US,Iowa,Wright County,N/A,1,0
+586,US,Kansas,Anderson County,N/A,1,0
+587,US,Kansas,Atchison County,N/A,1,0
+588,US,Kansas,Barton County,N/A,1,0
+589,US,Kansas,Bourbon County,N/A,1,0
+590,US,Kansas,Cloud County,N/A,1,0
+591,US,Kansas,Coffey County,N/A,1,0
+592,US,Kansas,Cowley County,N/A,1,0
+593,US,Kansas,Doniphan County,N/A,1,0
+594,US,Kansas,Ellis County,N/A,1,0
+595,US,Kansas,Ellsworth County,N/A,1,0
+596,US,Kansas,Finney County,N/A,1,0
+597,US,Kansas,Geary County,N/A,1,0
+598,US,Kansas,Greenwood County,N/A,1,0
+599,US,Kansas,Harper County,N/A,1,0
+600,US,Kansas,Harvey County,N/A,1,0
+601,US,Kansas,Kingman County,N/A,1,0
+602,US,Kansas,Labette County,N/A,1,0
+603,US,Kansas,Leavenworth County,N/A,1,0
+604,US,Kansas,McPherson County,N/A,1,0
+605,US,Kansas,Morris County,N/A,1,0
+606,US,Kansas,Nemaha County,N/A,1,0
+607,US,Kansas,Neosho County,N/A,1,0
+608,US,Kansas,Osage County,N/A,1,0
+609,US,Kansas,Ottawa County,N/A,1,0
+610,US,Kansas,Pawnee County,N/A,1,0
+611,US,Kansas,Pottawatomie County,N/A,1,0
+612,US,Kansas,Pratt County,N/A,1,0
+613,US,Kansas,Reno County,N/A,1,0
+614,US,Kansas,Rice County,N/A,1,0
+615,US,Kansas,Riley County,N/A,1,0
+616,US,Kansas,Sedgwick County,N/A,1,0
+617,US,Kansas,Seward County,N/A,1,0
+618,US,Kansas,Shawnee County,N/A,1,0
+619,US,Kansas,Sherman County,N/A,1,0
+620,US,Kansas,Stevens County,N/A,1,0
+621,US,Kansas,Sumner County,N/A,1,0
+622,US,Kansas,Trego County,N/A,1,0
+623,US,Kansas,Wabaunsee County,N/A,1,0
+624,US,Kansas,Wilson County,N/A,1,0
+625,US,Kansas,Wyandotte County,N/A,1,0
+626,US,Kentucky,Ballard County,N/A,1,0
+627,US,Kentucky,Barren County,N/A,1,0
+628,US,Kentucky,Bath County,N/A,1,0
+629,US,Kentucky,Bell County,N/A,1,0
+630,US,Kentucky,Boyd County,N/A,1,0
+631,US,Kentucky,Boyle County,N/A,1,0
+632,US,Kentucky,Bracken County,N/A,1,0
+633,US,Kentucky,Breathitt County,N/A,1,0
+634,US,Kentucky,Breckinridge County,N/A,1,0
+635,US,Kentucky,Bullitt County,N/A,1,0
+636,US,Kentucky,Caldwell County,N/A,1,0
+637,US,Kentucky,Calloway County,N/A,1,0
+638,US,Kentucky,Campbell County,N/A,1,0
+639,US,Kentucky,Carlisle County,N/A,1,0
+640,US,Kentucky,Carter County,N/A,1,0
+641,US,Kentucky,Casey County,N/A,1,0
+642,US,Kentucky,Edmonson County,N/A,1,0
+643,US,Kentucky,Estill County,N/A,1,0
+644,US,Kentucky,Fleming County,N/A,1,0
+645,US,Kentucky,Garrard County,N/A,1,0
+646,US,Kentucky,Graves County,N/A,1,0
+647,US,Kentucky,Grayson County,N/A,1,0
+648,US,Kentucky,Green County,N/A,1,0
+649,US,Kentucky,Greenup County,N/A,1,0
+650,US,Kentucky,Harlan County,N/A,1,0
+651,US,Kentucky,Hopkins County,N/A,1,0
+652,US,Kentucky,Jessamine County,N/A,1,0
+653,US,Kentucky,Kenton County,N/A,1,0
+654,US,Kentucky,Knott County,N/A,1,0
+655,US,Kentucky,Larue County,N/A,1,0
+656,US,Kentucky,Laurel County,N/A,1,0
+657,US,Kentucky,Letcher County,N/A,1,0
+658,US,Kentucky,Lewis County,N/A,1,0
+659,US,Kentucky,McCracken County,N/A,1,0
+660,US,Kentucky,McCreary County,N/A,1,0
+661,US,Kentucky,Meade County,N/A,1,0
+662,US,Kentucky,Menifee County,N/A,1,0
+663,US,Kentucky,Metcalfe County,N/A,1,0
+664,US,Kentucky,Muhlenberg County,N/A,1,0
+665,US,Kentucky,Nelson County,N/A,1,0
+666,US,Kentucky,Nicholas County,N/A,1,0
+667,US,Kentucky,Oldham County,N/A,1,0
+668,US,Kentucky,Pendleton County,N/A,1,0
+669,US,Kentucky,Powell County,N/A,1,0
+670,US,Kentucky,Rockcastle County,N/A,1,0
+671,US,Kentucky,Rowan County,N/A,1,0
+672,US,Kentucky,Simpson County,N/A,1,0
+673,US,Kentucky,Todd County,N/A,1,0
+674,US,Kentucky,Trigg County,N/A,1,0
+675,US,Kentucky,Trimble County,N/A,1,0
+676,US,Kentucky,Wolfe County,N/A,1,0
+677,US,Louisiana,Acadia Parish,N/A,1,0
+678,US,Louisiana,Allen Parish,N/A,1,0
+679,US,Louisiana,Ascension Parish,N/A,1,0
+680,US,Louisiana,Assumption Parish,N/A,1,0
+681,US,Louisiana,Avoyelles Parish,N/A,1,0
+682,US,Louisiana,Beauregard Parish,N/A,1,0
+683,US,Louisiana,Bienville Parish,N/A,1,0
+684,US,Louisiana,Bossier Parish,N/A,1,0
+685,US,Louisiana,Caddo Parish,N/A,1,0
+686,US,Louisiana,Calcasieu Parish,N/A,1,0
+687,US,Louisiana,Caldwell Parish,N/A,1,0
+688,US,Louisiana,Cameron Parish,N/A,1,0
+689,US,Louisiana,Catahoula Parish,N/A,1,0
+690,US,Louisiana,Claiborne Parish,N/A,1,0
+691,US,Louisiana,Concordia Parish,N/A,1,0
+692,US,Louisiana,De Soto Parish,N/A,1,0
+693,US,Louisiana,East Baton Rouge Parish,N/A,1,0
+694,US,Louisiana,East Feliciana Parish,N/A,1,0
+695,US,Louisiana,Evangeline Parish,N/A,1,0
+696,US,Louisiana,Franklin Parish,Columbus,1,1
+697,US,Louisiana,Grant Parish,N/A,1,0
+698,US,Louisiana,Iberia Parish,N/A,1,0
+699,US,Louisiana,Iberville Parish,N/A,1,0
+700,US,Louisiana,Jackson Parish,Kansas City,1,1
+701,US,Louisiana,Jefferson Davis Parish,Louisville,1,1
+702,US,Louisiana,Jefferson Parish,Louisville,1,1
+703,US,Louisiana,La Salle Parish,N/A,1,0
+704,US,Louisiana,Lafayette Parish,N/A,1,0
+705,US,Louisiana,Lafourche Parish,N/A,1,0
+706,US,Louisiana,Lincoln Parish,N/A,1,0
+707,US,Louisiana,Livingston Parish,N/A,1,0
+708,US,Louisiana,Madison Parish,N/A,1,0
+709,US,Louisiana,Morehouse Parish,N/A,1,0
+710,US,Louisiana,Natchitoches Parish,N/A,1,0
+711,US,Louisiana,Orleans Parish,New Orleans,1,1
+712,US,Louisiana,Ouachita Parish,N/A,1,0
+713,US,Louisiana,Plaquemines Parish,N/A,1,0
+714,US,Louisiana,Pointe Coupee Parish,N/A,1,0
+715,US,Louisiana,Rapides Parish,N/A,1,0
+716,US,Louisiana,Red River Parish,N/A,1,0
+717,US,Louisiana,Richland Parish,N/A,1,0
+718,US,Louisiana,Sabine Parish,N/A,1,0
+719,US,Louisiana,St. Bernard Parish,N/A,1,0
+720,US,Louisiana,St. Charles Parish,N/A,1,0
+721,US,Louisiana,St. Helena Parish,N/A,1,0
+722,US,Louisiana,St. James Parish,N/A,1,0
+723,US,Louisiana,St. John the Baptist Parish,N/A,1,0
+724,US,Louisiana,St. Landry Parish,N/A,1,0
+725,US,Louisiana,St. Martin Parish,N/A,1,0
+726,US,Louisiana,St. Mary Parish,N/A,1,0
+727,US,Louisiana,St. Tammany Parish,N/A,1,0
+728,US,Louisiana,Tangipahoa Parish,N/A,1,0
+729,US,Louisiana,Terrebonne Parish,N/A,1,0
+730,US,Louisiana,Union Parish,N/A,1,0
+731,US,Louisiana,Vermilion Parish,N/A,1,0
+732,US,Louisiana,Vernon Parish,N/A,1,0
+733,US,Louisiana,Washington Parish,N/A,1,0
+734,US,Louisiana,Webster Parish,N/A,1,0
+735,US,Louisiana,West Baton Rouge Parish,N/A,1,0
+736,US,Louisiana,West Carroll Parish,N/A,1,0
+737,US,Louisiana,West Feliciana Parish,N/A,1,0
+738,US,Louisiana,Winn Parish,N/A,1,0
+739,US,Maine,Androscoggin County,N/A,1,0
+740,US,Maine,Aroostook County,N/A,1,0
+741,US,Maine,Kennebec County,N/A,1,0
+742,US,Maine,Oxford County,N/A,1,0
+743,US,Maine,Penobscot County,N/A,1,0
+744,US,Maine,Piscataquis County,N/A,1,0
+745,US,Maine,Sagadahoc County,N/A,1,0
+746,US,Maine,Somerset County,N/A,1,0
+747,US,Maine,Waldo County,N/A,1,0
+748,US,Maine,York County,N/A,1,0
+749,US,Maryland,Allegany County,N/A,1,0
+750,US,Maryland,Anne Arundel County,N/A,1,0
+751,US,Maryland,Baltimore,Baltimore,1,1
+752,US,Maryland,Baltimore County,Baltimore,1,1
+753,US,Maryland,Calvert County,N/A,1,0
+754,US,Maryland,Caroline County,N/A,1,0
+755,US,Maryland,Cecil County,N/A,1,0
+756,US,Maryland,Charles County,N/A,1,0
+757,US,Maryland,Dorchester County,N/A,1,0
+758,US,Maryland,Frederick County,N/A,1,0
+759,US,Maryland,Garrett County,N/A,1,0
+760,US,Maryland,Harford County,N/A,1,0
+761,US,Maryland,Prince George's County,N/A,1,0
+762,US,Maryland,Queen Anne's County,N/A,1,0
+763,US,Maryland,St. Mary's County,N/A,1,0
+764,US,Maryland,Wicomico County,N/A,1,0
+765,US,Maryland,Worcester County,N/A,1,0
+766,US,Massachusetts,Barnstable County,N/A,1,0
+767,US,Massachusetts,Berkshire County,N/A,1,0
+768,US,Massachusetts,Bristol County,N/A,1,0
+769,US,Massachusetts,Dukes County,N/A,1,0
+770,US,Massachusetts,Essex County,N/A,1,0
+771,US,Massachusetts,Hampden County,N/A,1,0
+772,US,Massachusetts,Hampshire County,N/A,1,0
+773,US,Massachusetts,Nantucket County,N/A,1,0
+774,US,Massachusetts,Norfolk County,N/A,1,0
+775,US,Massachusetts,Suffolk County,Boston,1,1
+776,US,Michigan,Alcona County,N/A,1,0
+777,US,Michigan,Alger County,N/A,1,0
+778,US,Michigan,Allegan County,N/A,1,0
+779,US,Michigan,Alpena County,N/A,1,0
+780,US,Michigan,Antrim County,N/A,1,0
+781,US,Michigan,Arenac County,N/A,1,0
+782,US,Michigan,Baraga County,N/A,1,0
+783,US,Michigan,Barry County,N/A,1,0
+784,US,Michigan,Benzie County,N/A,1,0
+785,US,Michigan,Branch County,N/A,1,0
+786,US,Michigan,Charlevoix County,N/A,1,0
+787,US,Michigan,Cheboygan County,N/A,1,0
+788,US,Michigan,Chippewa County,N/A,1,0
+789,US,Michigan,Clare County,N/A,1,0
+790,US,Michigan,Eaton County,N/A,1,0
+791,US,Michigan,Genesee County,N/A,1,0
+792,US,Michigan,Gladwin County,N/A,1,0
+793,US,Michigan,Gogebic County,N/A,1,0
+794,US,Michigan,Grand Traverse County,N/A,1,0
+795,US,Michigan,Gratiot County,N/A,1,0
+796,US,Michigan,Hillsdale County,N/A,1,0
+797,US,Michigan,Houghton County,N/A,1,0
+798,US,Michigan,Huron County,N/A,1,0
+799,US,Michigan,Ingham County,N/A,1,0
+800,US,Michigan,Ionia County,N/A,1,0
+801,US,Michigan,Iosco County,N/A,1,0
+802,US,Michigan,Iron County,N/A,1,0
+803,US,Michigan,Isabella County,N/A,1,0
+804,US,Michigan,Kalamazoo County,N/A,1,0
+805,US,Michigan,Kalkaska County,N/A,1,0
+806,US,Michigan,Lapeer County,N/A,1,0
+807,US,Michigan,Leelanau County,N/A,1,0
+808,US,Michigan,Lenawee County,N/A,1,0
+809,US,Michigan,Luce County,N/A,1,0
+810,US,Michigan,Mackinac County,N/A,1,0
+811,US,Michigan,Macomb County,N/A,1,0
+812,US,Michigan,Manistee County,N/A,1,0
+813,US,Michigan,Marquette County,N/A,1,0
+814,US,Michigan,Mecosta County,N/A,1,0
+815,US,Michigan,Menominee County,N/A,1,0
+816,US,Michigan,Midland County,N/A,1,0
+817,US,Michigan,Missaukee County,N/A,1,0
+818,US,Michigan,Montcalm County,N/A,1,0
+819,US,Michigan,Montmorency County,N/A,1,0
+820,US,Michigan,Muskegon County,N/A,1,0
+821,US,Michigan,Newaygo County,N/A,1,0
+822,US,Michigan,Oakland County,N/A,1,0
+823,US,Michigan,Oceana County,N/A,1,0
+824,US,Michigan,Ogemaw County,N/A,1,0
+825,US,Michigan,Ontonagon County,N/A,1,0
+826,US,Michigan,Oscoda County,N/A,1,0
+827,US,Michigan,Otsego County,N/A,1,0
+828,US,Michigan,Presque Isle County,N/A,1,0
+829,US,Michigan,Roscommon County,N/A,1,0
+830,US,Michigan,Saginaw County,N/A,1,0
+831,US,Michigan,Sanilac County,N/A,1,0
+832,US,Michigan,Schoolcraft County,N/A,1,0
+833,US,Michigan,Shiawassee County,N/A,1,0
+834,US,Michigan,Tuscola County,N/A,1,0
+835,US,Michigan,Washtenaw County,Ann Arbor,1,1
+836,US,Michigan,Wexford County,N/A,1,0
+837,US,Minnesota,Aitkin County,N/A,1,0
+838,US,Minnesota,Anoka County,N/A,1,0
+839,US,Minnesota,Becker County,N/A,1,0
+840,US,Minnesota,Beltrami County,N/A,1,0
+841,US,Minnesota,Big Stone County,N/A,1,0
+842,US,Minnesota,Blue Earth County,N/A,1,0
+843,US,Minnesota,Carlton County,N/A,1,0
+844,US,Minnesota,Carver County,N/A,1,0
+845,US,Minnesota,Chisago County,N/A,1,0
+846,US,Minnesota,Cottonwood County,N/A,1,0
+847,US,Minnesota,Crow Wing County,N/A,1,0
+848,US,Minnesota,Dakota County,N/A,1,0
+849,US,Minnesota,Faribault County,N/A,1,0
+850,US,Minnesota,Fillmore County,N/A,1,0
+851,US,Minnesota,Freeborn County,N/A,1,0
+852,US,Minnesota,Goodhue County,N/A,1,0
+853,US,Minnesota,Hennepin County,Minneapolis,1,1
+854,US,Minnesota,Hubbard County,N/A,1,0
+855,US,Minnesota,Isanti County,N/A,1,0
+856,US,Minnesota,Itasca County,N/A,1,0
+857,US,Minnesota,Kanabec County,N/A,1,0
+858,US,Minnesota,Kandiyohi County,N/A,1,0
+859,US,Minnesota,Koochiching County,N/A,1,0
+860,US,Minnesota,Lac qui Parle County,N/A,1,0
+861,US,Minnesota,Lake of the Woods County,N/A,1,0
+862,US,Minnesota,Le Sueur County,N/A,1,0
+863,US,Minnesota,Mahnomen County,N/A,1,0
+864,US,Minnesota,McLeod County,N/A,1,0
+865,US,Minnesota,Meeker County,N/A,1,0
+866,US,Minnesota,Mille Lacs County,N/A,1,0
+867,US,Minnesota,Morrison County,N/A,1,0
+868,US,Minnesota,Mower County,N/A,1,0
+869,US,Minnesota,Nicollet County,N/A,1,0
+870,US,Minnesota,Nobles County,N/A,1,0
+871,US,Minnesota,Norman County,N/A,1,0
+872,US,Minnesota,Olmsted County,N/A,1,0
+873,US,Minnesota,Otter Tail County,N/A,1,0
+874,US,Minnesota,Pennington County,N/A,1,0
+875,US,Minnesota,Pine County,N/A,1,0
+876,US,Minnesota,Pipestone County,N/A,1,0
+877,US,Minnesota,Ramsey County,N/A,1,0
+878,US,Minnesota,Red Lake County,N/A,1,0
+879,US,Minnesota,Redwood County,N/A,1,0
+880,US,Minnesota,Renville County,N/A,1,0
+881,US,Minnesota,Rock County,N/A,1,0
+882,US,Minnesota,Roseau County,N/A,1,0
+883,US,Minnesota,Sherburne County,N/A,1,0
+884,US,Minnesota,Sibley County,N/A,1,0
+885,US,Minnesota,St. Louis County,N/A,1,0
+886,US,Minnesota,Stearns County,N/A,1,0
+887,US,Minnesota,Steele County,N/A,1,0
+888,US,Minnesota,Swift County,N/A,1,0
+889,US,Minnesota,Wabasha County,N/A,1,0
+890,US,Minnesota,Wadena County,N/A,1,0
+891,US,Minnesota,Waseca County,N/A,1,0
+892,US,Minnesota,Watonwan County,N/A,1,0
+893,US,Minnesota,Wilkin County,N/A,1,0
+894,US,Minnesota,Winona County,N/A,1,0
+895,US,Minnesota,Yellow Medicine County,N/A,1,0
+896,US,Mississippi,Alcorn County,N/A,1,0
+897,US,Mississippi,Amite County,N/A,1,0
+898,US,Mississippi,Attala County,N/A,1,0
+899,US,Mississippi,Bolivar County,N/A,1,0
+900,US,Mississippi,Claiborne County,N/A,1,0
+901,US,Mississippi,Coahoma County,N/A,1,0
+902,US,Mississippi,Copiah County,N/A,1,0
+903,US,Mississippi,Forrest County,N/A,1,0
+904,US,Mississippi,George County,N/A,1,0
+905,US,Mississippi,Grenada County,N/A,1,0
+906,US,Mississippi,Hinds County,N/A,1,0
+907,US,Mississippi,Humphreys County,N/A,1,0
+908,US,Mississippi,Itawamba County,N/A,1,0
+909,US,Mississippi,Jefferson Davis County,Louisville,1,1
+910,US,Mississippi,Kemper County,N/A,1,0
+911,US,Mississippi,Leake County,N/A,1,0
+912,US,Mississippi,Leflore County,N/A,1,0
+913,US,Mississippi,Neshoba County,N/A,1,0
+914,US,Mississippi,Noxubee County,N/A,1,0
+915,US,Mississippi,Oktibbeha County,N/A,1,0
+916,US,Mississippi,Panola County,N/A,1,0
+917,US,Mississippi,Pearl River County,N/A,1,0
+918,US,Mississippi,Pontotoc County,N/A,1,0
+919,US,Mississippi,Prentiss County,N/A,1,0
+920,US,Mississippi,Quitman County,N/A,1,0
+921,US,Mississippi,Rankin County,N/A,1,0
+922,US,Mississippi,Smith County,N/A,1,0
+923,US,Mississippi,Sunflower County,N/A,1,0
+924,US,Mississippi,Tallahatchie County,N/A,1,0
+925,US,Mississippi,Tate County,N/A,1,0
+926,US,Mississippi,Tippah County,N/A,1,0
+927,US,Mississippi,Tishomingo County,N/A,1,0
+928,US,Mississippi,Tunica County,N/A,1,0
+929,US,Mississippi,Walthall County,N/A,1,0
+930,US,Mississippi,Yalobusha County,N/A,1,0
+931,US,Mississippi,Yazoo County,N/A,1,0
+932,US,Missouri,Andrew County,N/A,1,0
+933,US,Missouri,Audrain County,N/A,1,0
+934,US,Missouri,Bates County,N/A,1,0
+935,US,Missouri,Bollinger County,N/A,1,0
+936,US,Missouri,Callaway County,N/A,1,0
+937,US,Missouri,Cape Girardeau County,N/A,1,0
+938,US,Missouri,Chariton County,N/A,1,0
+939,US,Missouri,Cole County,N/A,1,0
+940,US,Missouri,Cooper County,N/A,1,0
+941,US,Missouri,Dent County,N/A,1,0
+942,US,Missouri,Dunklin County,N/A,1,0
+943,US,Missouri,Gasconade County,N/A,1,0
+944,US,Missouri,Gentry County,N/A,1,0
+945,US,Missouri,Hickory County,N/A,1,0
+946,US,Missouri,Howell County,N/A,1,0
+947,US,Missouri,Laclede County,N/A,1,0
+948,US,Missouri,Maries County,N/A,1,0
+949,US,Missouri,McDonald County,N/A,1,0
+950,US,Missouri,Moniteau County,N/A,1,0
+951,US,Missouri,New Madrid County,N/A,1,0
+952,US,Missouri,Nodaway County,N/A,1,0
+953,US,Missouri,Oregon County,N/A,1,0
+954,US,Missouri,Ozark County,N/A,1,0
+955,US,Missouri,Pemiscot County,N/A,1,0
+956,US,Missouri,Pettis County,N/A,1,0
+957,US,Missouri,Phelps County,N/A,1,0
+958,US,Missouri,Platte County,N/A,1,0
+959,US,Missouri,Ralls County,N/A,1,0
+960,US,Missouri,Ray County,N/A,1,0
+961,US,Missouri,Shannon County,N/A,1,0
+962,US,Missouri,St. Charles County,N/A,1,0
+963,US,Missouri,St. Francois County,N/A,1,0
+964,US,Missouri,St. Louis,St. Louis,1,1
+965,US,Missouri,Ste. Genevieve County,N/A,1,0
+966,US,Missouri,Stoddard County,N/A,1,0
+967,US,Missouri,Taney County,N/A,1,0
+968,US,Missouri,Texas County,N/A,1,0
+969,US,Missouri,Vernon County,N/A,1,0
+970,US,Montana,Beaverhead County,N/A,1,0
+971,US,Montana,Big Horn County,N/A,1,0
+972,US,Montana,Broadwater County,N/A,1,0
+973,US,Montana,Carbon County,N/A,1,0
+974,US,Montana,Cascade County,N/A,1,0
+975,US,Montana,Custer County,N/A,1,0
+976,US,Montana,Deer Lodge County,N/A,1,0
+977,US,Montana,Fergus County,N/A,1,0
+978,US,Montana,Flathead County,N/A,1,0
+979,US,Montana,Glacier County,N/A,1,0
+980,US,Montana,Hill County,N/A,1,0
+981,US,Montana,Lewis and Clark County,N/A,1,0
+982,US,Montana,Mineral County,N/A,1,0
+983,US,Montana,Missoula County,N/A,1,0
+984,US,Montana,Pondera County,N/A,1,0
+985,US,Montana,Ravalli County,N/A,1,0
+986,US,Montana,Roosevelt County,N/A,1,0
+987,US,Montana,Rosebud County,N/A,1,0
+988,US,Montana,Sanders County,N/A,1,0
+989,US,Montana,Silver Bow County,N/A,1,0
+990,US,Montana,Stillwater County,N/A,1,0
+991,US,Montana,Yellowstone County,N/A,1,0
+992,US,Nebraska,Antelope County,N/A,1,0
+993,US,Nebraska,Box Butte County,N/A,1,0
+994,US,Nebraska,Buffalo County,N/A,1,0
+995,US,Nebraska,Burt County,N/A,1,0
+996,US,Nebraska,Cherry County,N/A,1,0
+997,US,Nebraska,Cheyenne County,N/A,1,0
+998,US,Nebraska,Colfax County,N/A,1,0
+999,US,Nebraska,Cuming County,N/A,1,0
+1000,US,Nebraska,Dawes County,N/A,1,0
+1001,US,Nebraska,Deuel County,N/A,1,0
+1002,US,Nebraska,Dixon County,N/A,1,0
+1003,US,Nebraska,Gage County,N/A,1,0
+1004,US,Nebraska,Holt County,N/A,1,0
+1005,US,Nebraska,Kearney County,N/A,1,0
+1006,US,Nebraska,Keith County,N/A,1,0
+1007,US,Nebraska,Kimball County,N/A,1,0
+1008,US,Nebraska,Lancaster County,N/A,1,0
+1009,US,Nebraska,Merrick County,N/A,1,0
+1010,US,Nebraska,Morrill County,N/A,1,0
+1011,US,Nebraska,Otoe County,N/A,1,0
+1012,US,Nebraska,Red Willow County,N/A,1,0
+1013,US,Nebraska,Richardson County,N/A,1,0
+1014,US,Nebraska,Sarpy County,N/A,1,0
+1015,US,Nebraska,Saunders County,N/A,1,0
+1016,US,Nebraska,Scotts Bluff County,N/A,1,0
+1017,US,Nebraska,Stanton County,N/A,1,0
+1018,US,Nebraska,Thayer County,N/A,1,0
+1019,US,Nebraska,Thurston County,N/A,1,0
+1020,US,Nevada,Carson City,N/A,1,0
+1021,US,Nevada,Churchill County,N/A,1,0
+1022,US,Nevada,Elko County,N/A,1,0
+1023,US,Nevada,Lander County,N/A,1,0
+1024,US,Nevada,Nye County,N/A,1,0
+1025,US,Nevada,Pershing County,N/A,1,0
+1026,US,Nevada,Storey County,N/A,1,0
+1027,US,Nevada,Washoe County,N/A,1,0
+1028,US,Nevada,White Pine County,N/A,1,0
+1029,US,New Hampshire,Belknap County,N/A,1,0
+1030,US,New Hampshire,Cheshire County,N/A,1,0
+1031,US,New Hampshire,Coos County,N/A,1,0
+1032,US,New Hampshire,Grafton County,N/A,1,0
+1033,US,New Hampshire,Merrimack County,N/A,1,0
+1034,US,New Hampshire,Rockingham County,N/A,1,0
+1035,US,New Hampshire,Strafford County,N/A,1,0
+1036,US,New Jersey,Atlantic County,N/A,1,0
+1037,US,New Jersey,Bergen County,N/A,1,0
+1038,US,New Jersey,Burlington County,N/A,1,0
+1039,US,New Jersey,Cape May County,N/A,1,0
+1040,US,New Jersey,Gloucester County,N/A,1,0
+1041,US,New Jersey,Hudson County,N/A,1,0
+1042,US,New Jersey,Hunterdon County,N/A,1,0
+1043,US,New Jersey,Monmouth County,N/A,1,0
+1044,US,New Jersey,Ocean County,N/A,1,0
+1045,US,New Jersey,Passaic County,N/A,1,0
+1046,US,New Jersey,Salem County,N/A,1,0
+1047,US,New Mexico,Bernalillo County,Albuquerque,1,1
+1048,US,New Mexico,Chaves County,N/A,1,0
+1049,US,New Mexico,Cibola County,N/A,1,0
+1050,US,New Mexico,Curry County,N/A,1,0
+1051,US,New Mexico,Doña Ana County,N/A,1,0
+1052,US,New Mexico,Eddy County,N/A,1,0
+1053,US,New Mexico,Guadalupe County,N/A,1,0
+1054,US,New Mexico,Hidalgo County,N/A,1,0
+1055,US,New Mexico,Lea County,N/A,1,0
+1056,US,New Mexico,Los Alamos County,N/A,1,0
+1057,US,New Mexico,Luna County,Ventura,1,1
+1058,US,New Mexico,McKinley County,N/A,1,0
+1059,US,New Mexico,Quay County,N/A,1,0
+1060,US,New Mexico,Rio Arriba County,N/A,1,0
+1061,US,New Mexico,San Juan County,N/A,1,0
+1062,US,New Mexico,Sandoval County,N/A,1,0
+1063,US,New Mexico,Santa Fe County,N/A,1,0
+1064,US,New Mexico,Sierra County,N/A,1,0
+1065,US,New Mexico,Socorro County,N/A,1,0
+1066,US,New Mexico,Taos County,N/A,1,0
+1067,US,New Mexico,Torrance County,N/A,1,0
+1068,US,New Mexico,Valencia County,N/A,1,0
+1069,US,New York,Albany County,N/A,1,0
+1070,US,New York,Bronx County,N/A,1,0
+1071,US,New York,Broome County,N/A,1,0
+1072,US,New York,Cattaraugus County,N/A,1,0
+1073,US,New York,Cayuga County,N/A,1,0
+1074,US,New York,Chautauqua County,N/A,1,0
+1075,US,New York,Chemung County,N/A,1,0
+1076,US,New York,Chenango County,N/A,1,0
+1077,US,New York,Cortland County,N/A,1,0
+1078,US,New York,Dutchess County,N/A,1,0
+1079,US,New York,Erie County,N/A,1,0
+1080,US,New York,Herkimer County,N/A,1,0
+1081,US,New York,New York County,N/A,1,0
+1082,US,New York,Niagara County,N/A,1,0
+1083,US,New York,Onondaga County,N/A,1,0
+1084,US,New York,Ontario County,N/A,1,0
+1085,US,New York,Orleans County,New Orleans,1,1
+1086,US,New York,Oswego County,N/A,1,0
+1087,US,New York,Queens County,N/A,1,0
+1088,US,New York,Rensselaer County,N/A,1,0
+1089,US,New York,Rockland County,N/A,1,0
+1090,US,New York,Saratoga County,N/A,1,0
+1091,US,New York,Schenectady County,N/A,1,0
+1092,US,New York,Schoharie County,N/A,1,0
+1093,US,New York,Seneca County,N/A,1,0
+1094,US,New York,St. Lawrence County,N/A,1,0
+1095,US,New York,Tioga County,N/A,1,0
+1096,US,New York,Tompkins County,N/A,1,0
+1097,US,New York,Ulster County,N/A,1,0
+1098,US,New York,Westchester County,N/A,1,0
+1099,US,New York,Wyoming County,N/A,1,0
+1100,US,New York,Yates County,N/A,1,0
+1101,US,North Carolina,Alamance County,N/A,1,0
+1102,US,North Carolina,Alleghany County,N/A,1,0
+1103,US,North Carolina,Anson County,N/A,1,0
+1104,US,North Carolina,Ashe County,N/A,1,0
+1105,US,North Carolina,Avery County,N/A,1,0
+1106,US,North Carolina,Beaufort County,N/A,1,0
+1107,US,North Carolina,Bertie County,N/A,1,0
+1108,US,North Carolina,Bladen County,N/A,1,0
+1109,US,North Carolina,Brunswick County,N/A,1,0
+1110,US,North Carolina,Buncombe County,N/A,1,0
+1111,US,North Carolina,Cabarrus County,N/A,1,0
+1112,US,North Carolina,Carteret County,N/A,1,0
+1113,US,North Carolina,Caswell County,N/A,1,0
+1114,US,North Carolina,Catawba County,N/A,1,0
+1115,US,North Carolina,Chowan County,N/A,1,0
+1116,US,North Carolina,Columbus County,N/A,1,0
+1117,US,North Carolina,Craven County,N/A,1,0
+1118,US,North Carolina,Currituck County,N/A,1,0
+1119,US,North Carolina,Dare County,N/A,1,0
+1120,US,North Carolina,Davidson County,Nashville,1,1
+1121,US,North Carolina,Davie County,N/A,1,0
+1122,US,North Carolina,Duplin County,N/A,1,0
+1123,US,North Carolina,Durham County,N/A,1,0
+1124,US,North Carolina,Edgecombe County,N/A,1,0
+1125,US,North Carolina,Gaston County,N/A,1,0
+1126,US,North Carolina,Gates County,N/A,1,0
+1127,US,North Carolina,Granville County,N/A,1,0
+1128,US,North Carolina,Guilford County,Greensboro,1,1
+1129,US,North Carolina,Halifax County,N/A,1,0
+1130,US,North Carolina,Harnett County,N/A,1,0
+1131,US,North Carolina,Haywood County,N/A,1,0
+1132,US,North Carolina,Hertford County,N/A,1,0
+1133,US,North Carolina,Hoke County,N/A,1,0
+1134,US,North Carolina,Iredell County,N/A,1,0
+1135,US,North Carolina,Johnston County,N/A,1,0
+1136,US,North Carolina,Lenoir County,N/A,1,0
+1137,US,North Carolina,McDowell County,N/A,1,0
+1138,US,North Carolina,Mecklenburg County,Charlotte,1,1
+1139,US,North Carolina,Moore County,N/A,1,0
+1140,US,North Carolina,Nash County,N/A,1,0
+1141,US,North Carolina,New Hanover County,N/A,1,0
+1142,US,North Carolina,Northampton County,N/A,1,0
+1143,US,North Carolina,Onslow County,N/A,1,0
+1144,US,North Carolina,Pamlico County,N/A,1,0
+1145,US,North Carolina,Pasquotank County,N/A,1,0
+1146,US,North Carolina,Pender County,N/A,1,0
+1147,US,North Carolina,Perquimans County,N/A,1,0
+1148,US,North Carolina,Person County,N/A,1,0
+1149,US,North Carolina,Pitt County,N/A,1,0
+1150,US,North Carolina,Robeson County,N/A,1,0
+1151,US,North Carolina,Rutherford County,N/A,1,0
+1152,US,North Carolina,Sampson County,N/A,1,0
+1153,US,North Carolina,Scotland County,N/A,1,0
+1154,US,North Carolina,Stanly County,N/A,1,0
+1155,US,North Carolina,Stokes County,N/A,1,0
+1156,US,North Carolina,Surry County,N/A,1,0
+1157,US,North Carolina,Swain County,N/A,1,0
+1158,US,North Carolina,Transylvania County,N/A,1,0
+1159,US,North Carolina,Vance County,N/A,1,0
+1160,US,North Carolina,Wake County,Raleigh,1,1
+1161,US,North Carolina,Watauga County,N/A,1,0
+1162,US,North Carolina,Yadkin County,N/A,1,0
+1163,US,North Carolina,Yancey County,N/A,1,0
+1164,US,North Dakota,Barnes County,N/A,1,0
+1165,US,North Dakota,Bottineau County,N/A,1,0
+1166,US,North Dakota,Burleigh County,N/A,1,0
+1167,US,North Dakota,Dunn County,N/A,1,0
+1168,US,North Dakota,Grand Forks County,N/A,1,0
+1169,US,North Dakota,McKenzie County,N/A,1,0
+1170,US,North Dakota,Morton County,N/A,1,0
+1171,US,North Dakota,Mountrail County,N/A,1,0
+1172,US,North Dakota,Pembina County,N/A,1,0
+1173,US,North Dakota,Ransom County,N/A,1,0
+1174,US,North Dakota,Rolette County,N/A,1,0
+1175,US,North Dakota,Sargent County,N/A,1,0
+1176,US,North Dakota,Stutsman County,N/A,1,0
+1177,US,North Dakota,Traill County,N/A,1,0
+1178,US,North Dakota,Walsh County,N/A,1,0
+1179,US,North Dakota,Ward County,N/A,1,0
+1180,US,North Dakota,Williams County,N/A,1,0
+1181,US,Ohio,Ashland County,N/A,1,0
+1182,US,Ohio,Ashtabula County,N/A,1,0
+1183,US,Ohio,Athens County,N/A,1,0
+1184,US,Ohio,Auglaize County,N/A,1,0
+1185,US,Ohio,Belmont County,N/A,1,0
+1186,US,Ohio,Clermont County,N/A,1,0
+1187,US,Ohio,Columbiana County,N/A,1,0
+1188,US,Ohio,Coshocton County,N/A,1,0
+1189,US,Ohio,Cuyahoga County,Cleveland,1,1
+1190,US,Ohio,Darke County,N/A,1,0
+1191,US,Ohio,Defiance County,N/A,1,0
+1192,US,Ohio,Gallia County,N/A,1,0
+1193,US,Ohio,Geauga County,N/A,1,0
+1194,US,Ohio,Guernsey County,N/A,1,0
+1195,US,Ohio,Highland County,N/A,1,0
+1196,US,Ohio,Hocking County,N/A,1,0
+1197,US,Ohio,Licking County,N/A,1,0
+1198,US,Ohio,Lorain County,N/A,1,0
+1199,US,Ohio,Mahoning County,N/A,1,0
+1200,US,Ohio,Medina County,N/A,1,0
+1201,US,Ohio,Meigs County,N/A,1,0
+1202,US,Ohio,Morrow County,N/A,1,0
+1203,US,Ohio,Muskingum County,N/A,1,0
+1204,US,Ohio,Pickaway County,N/A,1,0
+1205,US,Ohio,Portage County,N/A,1,0
+1206,US,Ohio,Preble County,N/A,1,0
+1207,US,Ohio,Ross County,N/A,1,0
+1208,US,Ohio,Sandusky County,N/A,1,0
+1209,US,Ohio,Scioto County,N/A,1,0
+1210,US,Ohio,Trumbull County,N/A,1,0
+1211,US,Ohio,Tuscarawas County,N/A,1,0
+1212,US,Ohio,Van Wert County,N/A,1,0
+1213,US,Ohio,Vinton County,N/A,1,0
+1214,US,Ohio,Wood County,N/A,1,0
+1215,US,Ohio,Wyandot County,N/A,1,0
+1216,US,Oklahoma,Atoka County,N/A,1,0
+1217,US,Oklahoma,Beckham County,N/A,1,0
+1218,US,Oklahoma,Caddo County,N/A,1,0
+1219,US,Oklahoma,Canadian County,N/A,1,0
+1220,US,Oklahoma,Coal County,N/A,1,0
+1221,US,Oklahoma,Comanche County,N/A,1,0
+1222,US,Oklahoma,Cotton County,N/A,1,0
+1223,US,Oklahoma,Craig County,N/A,1,0
+1224,US,Oklahoma,Creek County,N/A,1,0
+1225,US,Oklahoma,Garvin County,N/A,1,0
+1226,US,Oklahoma,Greer County,N/A,1,0
+1227,US,Oklahoma,Haskell County,N/A,1,0
+1228,US,Oklahoma,Hughes County,N/A,1,0
+1229,US,Oklahoma,Kay County,N/A,1,0
+1230,US,Oklahoma,Kingfisher County,N/A,1,0
+1231,US,Oklahoma,Latimer County,N/A,1,0
+1232,US,Oklahoma,Le Flore County,N/A,1,0
+1233,US,Oklahoma,Love County,N/A,1,0
+1234,US,Oklahoma,Major County,N/A,1,0
+1235,US,Oklahoma,Mayes County,N/A,1,0
+1236,US,Oklahoma,McClain County,N/A,1,0
+1237,US,Oklahoma,McCurtain County,N/A,1,0
+1238,US,Oklahoma,Muskogee County,N/A,1,0
+1239,US,Oklahoma,Nowata County,N/A,1,0
+1240,US,Oklahoma,Okfuskee County,N/A,1,0
+1241,US,Oklahoma,Oklahoma County,Oklahoma City,1,1
+1242,US,Oklahoma,Okmulgee County,N/A,1,0
+1243,US,Oklahoma,Payne County,N/A,1,0
+1244,US,Oklahoma,Pittsburg County,N/A,1,0
+1245,US,Oklahoma,Pushmataha County,N/A,1,0
+1246,US,Oklahoma,Rogers County,N/A,1,0
+1247,US,Oklahoma,Sequoyah County,N/A,1,0
+1248,US,Oklahoma,Tillman County,N/A,1,0
+1249,US,Oklahoma,Tulsa County,Tulsa,1,1
+1250,US,Oklahoma,Wagoner County,N/A,1,0
+1251,US,Oklahoma,Washita County,N/A,1,0
+1252,US,Oklahoma,Woods County,N/A,1,0
+1253,US,Oklahoma,Woodward County,N/A,1,0
+1254,US,Oregon,Clackamas County,N/A,1,0
+1255,US,Oregon,Clatsop County,N/A,1,0
+1256,US,Oregon,Crook County,N/A,1,0
+1257,US,Oregon,Deschutes County,N/A,1,0
+1258,US,Oregon,Harney County,N/A,1,0
+1259,US,Oregon,Hood River County,N/A,1,0
+1260,US,Oregon,Josephine County,N/A,1,0
+1261,US,Oregon,Klamath County,N/A,1,0
+1262,US,Oregon,Lane County,N/A,1,0
+1263,US,Oregon,Malheur County,N/A,1,0
+1264,US,Oregon,Multnomah County,Portland,1,1
+1265,US,Oregon,Tillamook County,N/A,1,0
+1266,US,Oregon,Umatilla County,N/A,1,0
+1267,US,Oregon,Wallowa County,N/A,1,0
+1268,US,Oregon,Wasco County,N/A,1,0
+1269,US,Oregon,Yamhill County,N/A,1,0
+1270,US,Pennsylvania,Allegheny County,Pittsburgh,1,1
+1271,US,Pennsylvania,Armstrong County,N/A,1,0
+1272,US,Pennsylvania,Beaver County,N/A,1,0
+1273,US,Pennsylvania,Bedford County,N/A,1,0
+1274,US,Pennsylvania,Berks County,N/A,1,0
+1275,US,Pennsylvania,Blair County,N/A,1,0
+1276,US,Pennsylvania,Bucks County,N/A,1,0
+1277,US,Pennsylvania,Cambria County,N/A,1,0
+1278,US,Pennsylvania,Centre County,N/A,1,0
+1279,US,Pennsylvania,Chester County,N/A,1,0
+1280,US,Pennsylvania,Clarion County,N/A,1,0
+1281,US,Pennsylvania,Clearfield County,N/A,1,0
+1282,US,Pennsylvania,Dauphin County,N/A,1,0
+1283,US,Pennsylvania,Elk County,N/A,1,0
+1284,US,Pennsylvania,Huntingdon County,N/A,1,0
+1285,US,Pennsylvania,Indiana County,N/A,1,0
+1286,US,Pennsylvania,Juniata County,N/A,1,0
+1287,US,Pennsylvania,Lackawanna County,N/A,1,0
+1288,US,Pennsylvania,Lebanon County,N/A,1,0
+1289,US,Pennsylvania,Lehigh County,N/A,1,0
+1290,US,Pennsylvania,Luzerne County,N/A,1,0
+1291,US,Pennsylvania,Lycoming County,N/A,1,0
+1292,US,Pennsylvania,McKean County,N/A,1,0
+1293,US,Pennsylvania,Mifflin County,N/A,1,0
+1294,US,Pennsylvania,Montour County,N/A,1,0
+1295,US,Pennsylvania,Northumberland County,N/A,1,0
+1296,US,Pennsylvania,Philadelphia County,Philadelphia,1,1
+1297,US,Pennsylvania,Potter County,N/A,1,0
+1298,US,Pennsylvania,Schuylkill County,N/A,1,0
+1299,US,Pennsylvania,Snyder County,N/A,1,0
+1300,US,Pennsylvania,Susquehanna County,N/A,1,0
+1301,US,Pennsylvania,Venango County,N/A,1,0
+1302,US,Pennsylvania,Westmoreland County,N/A,1,0
+1303,US,Rhode Island,Newport County,N/A,1,0
+1304,US,Rhode Island,Providence County,Providence,1,1
+1305,US,South Carolina,Abbeville County,N/A,1,0
+1306,US,South Carolina,Aiken County,N/A,1,0
+1307,US,South Carolina,Allendale County,N/A,1,0
+1308,US,South Carolina,Bamberg County,N/A,1,0
+1309,US,South Carolina,Barnwell County,N/A,1,0
+1310,US,South Carolina,Berkeley County,N/A,1,0
+1311,US,South Carolina,Charleston County,N/A,1,0
+1312,US,South Carolina,Chesterfield County,N/A,1,0
+1313,US,South Carolina,Clarendon County,N/A,1,0
+1314,US,South Carolina,Colleton County,N/A,1,0
+1315,US,South Carolina,Darlington County,N/A,1,0
+1316,US,South Carolina,Dillon County,N/A,1,0
+1317,US,South Carolina,Edgefield County,N/A,1,0
+1318,US,South Carolina,Florence County,N/A,1,0
+1319,US,South Carolina,Georgetown County,N/A,1,0
+1320,US,South Carolina,Greenville County,N/A,1,0
+1321,US,South Carolina,Hampton County,N/A,1,0
+1322,US,South Carolina,Horry County,N/A,1,0
+1323,US,South Carolina,Kershaw County,N/A,1,0
+1324,US,South Carolina,Lexington County,N/A,1,0
+1325,US,South Carolina,Marlboro County,N/A,1,0
+1326,US,South Carolina,McCormick County,N/A,1,0
+1327,US,South Carolina,Newberry County,N/A,1,0
+1328,US,South Carolina,Orangeburg County,N/A,1,0
+1329,US,South Carolina,Saluda County,N/A,1,0
+1330,US,South Carolina,Spartanburg County,N/A,1,0
+1331,US,South Carolina,Williamsburg County,N/A,1,0
+1332,US,South Dakota,Beadle County,N/A,1,0
+1333,US,South Dakota,Bon Homme County,N/A,1,0
+1334,US,South Dakota,Brookings County,N/A,1,0
+1335,US,South Dakota,Brule County,N/A,1,0
+1336,US,South Dakota,Charles Mix County,N/A,1,0
+1337,US,South Dakota,Codington County,N/A,1,0
+1338,US,South Dakota,Davison County,N/A,1,0
+1339,US,South Dakota,Dewey County,N/A,1,0
+1340,US,South Dakota,Fall River County,N/A,1,0
+1341,US,South Dakota,Hamlin County,N/A,1,0
+1342,US,South Dakota,Hutchinson County,N/A,1,0
+1343,US,South Dakota,Kingsbury County,N/A,1,0
+1344,US,South Dakota,McCook County,N/A,1,0
+1345,US,South Dakota,Minnehaha County,N/A,1,0
+1346,US,South Dakota,Moody County,N/A,1,0
+1347,US,South Dakota,Roberts County,N/A,1,0
+1348,US,South Dakota,Spink County,N/A,1,0
+1349,US,South Dakota,Tripp County,N/A,1,0
+1350,US,South Dakota,Walworth County,N/A,1,0
+1351,US,South Dakota,Yankton County,N/A,1,0
+1352,US,Tennessee,Bledsoe County,N/A,1,0
+1353,US,Tennessee,Cannon County,N/A,1,0
+1354,US,Tennessee,Cheatham County,N/A,1,0
+1355,US,Tennessee,Cocke County,N/A,1,0
+1356,US,Tennessee,Crockett County,N/A,1,0
+1357,US,Tennessee,Dickson County,N/A,1,0
+1358,US,Tennessee,Dyer County,N/A,1,0
+1359,US,Tennessee,Fentress County,N/A,1,0
+1360,US,Tennessee,Giles County,N/A,1,0
+1361,US,Tennessee,Grainger County,N/A,1,0
+1362,US,Tennessee,Hamblen County,N/A,1,0
+1363,US,Tennessee,Hardeman County,N/A,1,0
+1364,US,Tennessee,Hawkins County,N/A,1,0
+1365,US,Tennessee,Hickman County,N/A,1,0
+1366,US,Tennessee,Loudon County,N/A,1,0
+1367,US,Tennessee,Maury County,N/A,1,0
+1368,US,Tennessee,McMinn County,N/A,1,0
+1369,US,Tennessee,McNairy County,N/A,1,0
+1370,US,Tennessee,Obion County,N/A,1,0
+1371,US,Tennessee,Overton County,N/A,1,0
+1372,US,Tennessee,Rhea County,N/A,1,0
+1373,US,Tennessee,Roane County,N/A,1,0
+1374,US,Tennessee,Robertson County,N/A,1,0
+1375,US,Tennessee,Sequatchie County,N/A,1,0
+1376,US,Tennessee,Stewart County,N/A,1,0
+1377,US,Tennessee,Trousdale County,N/A,1,0
+1378,US,Tennessee,Unicoi County,N/A,1,0
+1379,US,Tennessee,Weakley County,N/A,1,0
+1380,US,Texas,Andrews County,N/A,1,0
+1381,US,Texas,Angelina County,N/A,1,0
+1382,US,Texas,Aransas County,N/A,1,0
+1383,US,Texas,Archer County,N/A,1,0
+1384,US,Texas,Atascosa County,N/A,1,0
+1385,US,Texas,Austin County,N/A,1,0
+1386,US,Texas,Bailey County,N/A,1,0
+1387,US,Texas,Bandera County,N/A,1,0
+1388,US,Texas,Bastrop County,N/A,1,0
+1389,US,Texas,Bee County,N/A,1,0
+1390,US,Texas,Bexar County,San Antonio,1,1
+1391,US,Texas,Blanco County,N/A,1,0
+1392,US,Texas,Bosque County,N/A,1,0
+1393,US,Texas,Bowie County,N/A,1,0
+1394,US,Texas,Brazoria County,N/A,1,0
+1395,US,Texas,Brazos County,N/A,1,0
+1396,US,Texas,Brewster County,N/A,1,0
+1397,US,Texas,Burleson County,N/A,1,0
+1398,US,Texas,Burnet County,N/A,1,0
+1399,US,Texas,Callahan County,N/A,1,0
+1400,US,Texas,Cameron County,N/A,1,0
+1401,US,Texas,Camp County,N/A,1,0
+1402,US,Texas,Carson County,N/A,1,0
+1403,US,Texas,Castro County,N/A,1,0
+1404,US,Texas,Childress County,N/A,1,0
+1405,US,Texas,Coke County,N/A,1,0
+1406,US,Texas,Coleman County,N/A,1,0
+1407,US,Texas,Collin County,N/A,1,0
+1408,US,Texas,Colorado County,N/A,1,0
+1409,US,Texas,Comal County,N/A,1,0
+1410,US,Texas,Cooke County,N/A,1,0
+1411,US,Texas,Coryell County,N/A,1,0
+1412,US,Texas,Crane County,N/A,1,0
+1413,US,Texas,Crosby County,N/A,1,0
+1414,US,Texas,Culberson County,N/A,1,0
+1415,US,Texas,Dallam County,N/A,1,0
+1416,US,Texas,Deaf Smith County,N/A,1,0
+1417,US,Texas,Denton County,N/A,1,0
+1418,US,Texas,DeWitt County,N/A,1,0
+1419,US,Texas,Dimmit County,N/A,1,0
+1420,US,Texas,Donley County,N/A,1,0
+1421,US,Texas,Eastland County,N/A,1,0
+1422,US,Texas,Ector County,N/A,1,0
+1423,US,Texas,Erath County,N/A,1,0
+1424,US,Texas,Falls County,N/A,1,0
+1425,US,Texas,Fort Bend County,N/A,1,0
+1426,US,Texas,Freestone County,N/A,1,0
+1427,US,Texas,Frio County,N/A,1,0
+1428,US,Texas,Gaines County,N/A,1,0
+1429,US,Texas,Galveston County,N/A,1,0
+1430,US,Texas,Garza County,N/A,1,0
+1431,US,Texas,Gillespie County,N/A,1,0
+1432,US,Texas,Goliad County,N/A,1,0
+1433,US,Texas,Gonzales County,N/A,1,0
+1434,US,Texas,Gray County,N/A,1,0
+1435,US,Texas,Gregg County,N/A,1,0
+1436,US,Texas,Grimes County,N/A,1,0
+1437,US,Texas,Hartley County,N/A,1,0
+1438,US,Texas,Hays County,N/A,1,0
+1439,US,Texas,Hockley County,N/A,1,0
+1440,US,Texas,Hood County,N/A,1,0
+1441,US,Texas,Hunt County,N/A,1,0
+1442,US,Texas,Jack County,N/A,1,0
+1443,US,Texas,Jim Hogg County,N/A,1,0
+1444,US,Texas,Jim Wells County,N/A,1,0
+1445,US,Texas,Karnes County,N/A,1,0
+1446,US,Texas,Kaufman County,N/A,1,0
+1447,US,Texas,Kerr County,N/A,1,0
+1448,US,Texas,Kimble County,N/A,1,0
+1449,US,Texas,Kleberg County,N/A,1,0
+1450,US,Texas,La Salle County,N/A,1,0
+1451,US,Texas,Lamb County,N/A,1,0
+1452,US,Texas,Lampasas County,N/A,1,0
+1453,US,Texas,Lavaca County,N/A,1,0
+1454,US,Texas,Live Oak County,N/A,1,0
+1455,US,Texas,Llano County,N/A,1,0
+1456,US,Texas,Loving County,N/A,1,0
+1457,US,Texas,Lubbock County,N/A,1,0
+1458,US,Texas,Lynn County,N/A,1,0
+1459,US,Texas,Matagorda County,N/A,1,0
+1460,US,Texas,Maverick County,N/A,1,0
+1461,US,Texas,McCulloch County,N/A,1,0
+1462,US,Texas,McLennan County,N/A,1,0
+1463,US,Texas,McMullen County,N/A,1,0
+1464,US,Texas,Milam County,N/A,1,0
+1465,US,Texas,Montague County,N/A,1,0
+1466,US,Texas,Nacogdoches County,N/A,1,0
+1467,US,Texas,Navarro County,N/A,1,0
+1468,US,Texas,Nolan County,N/A,1,0
+1469,US,Texas,Nueces County,Corpus Christi,1,1
+1470,US,Texas,Ochiltree County,N/A,1,0
+1471,US,Texas,Palo Pinto County,N/A,1,0
+1472,US,Texas,Parker County,N/A,1,0
+1473,US,Texas,Parmer County,N/A,1,0
+1474,US,Texas,Pecos County,N/A,1,0
+1475,US,Texas,Presidio County,N/A,1,0
+1476,US,Texas,Rains County,N/A,1,0
+1477,US,Texas,Randall County,N/A,1,0
+1478,US,Texas,Reagan County,N/A,1,0
+1479,US,Texas,Real County,N/A,1,0
+1480,US,Texas,Red River County,N/A,1,0
+1481,US,Texas,Reeves County,N/A,1,0
+1482,US,Texas,Refugio County,N/A,1,0
+1483,US,Texas,Rockwall County,N/A,1,0
+1484,US,Texas,Runnels County,N/A,1,0
+1485,US,Texas,Rusk County,N/A,1,0
+1486,US,Texas,Sabine County,N/A,1,0
+1487,US,Texas,San Augustine County,N/A,1,0
+1488,US,Texas,San Jacinto County,N/A,1,0
+1489,US,Texas,San Patricio County,N/A,1,0
+1490,US,Texas,San Saba County,N/A,1,0
+1491,US,Texas,Scurry County,N/A,1,0
+1492,US,Texas,Somervell County,N/A,1,0
+1493,US,Texas,Starr County,N/A,1,0
+1494,US,Texas,Sutton County,N/A,1,0
+1495,US,Texas,Swisher County,N/A,1,0
+1496,US,Texas,Tarrant County,N/A,1,0
+1497,US,Texas,Terry County,N/A,1,0
+1498,US,Texas,Titus County,N/A,1,0
+1499,US,Texas,Tom Green County,N/A,1,0
+1500,US,Texas,Travis County,Austin,1,1
+1501,US,Texas,Tyler County,N/A,1,0
+1502,US,Texas,Upshur County,N/A,1,0
+1503,US,Texas,Upton County,N/A,1,0
+1504,US,Texas,Uvalde County,N/A,1,0
+1505,US,Texas,Val Verde County,N/A,1,0
+1506,US,Texas,Van Zandt County,N/A,1,0
+1507,US,Texas,Victoria County,N/A,1,0
+1508,US,Texas,Waller County,N/A,1,0
+1509,US,Texas,Webb County,N/A,1,0
+1510,US,Texas,Wharton County,N/A,1,0
+1511,US,Texas,Wheeler County,N/A,1,0
+1512,US,Texas,Wichita County,N/A,1,0
+1513,US,Texas,Wilbarger County,N/A,1,0
+1514,US,Texas,Willacy County,N/A,1,0
+1515,US,Texas,Winkler County,N/A,1,0
+1516,US,Texas,Wise County,N/A,1,0
+1517,US,Texas,Yoakum County,N/A,1,0
+1518,US,Texas,Young County,N/A,1,0
+1519,US,Texas,Zapata County,N/A,1,0
+1520,US,Texas,Zavala County,N/A,1,0
+1521,US,Utah,Box Elder County,N/A,1,0
+1522,US,Utah,Cache County,N/A,1,0
+1523,US,Utah,Duchesne County,N/A,1,0
+1524,US,Utah,Emery County,N/A,1,0
+1525,US,Utah,Juab County,N/A,1,0
+1526,US,Utah,Millard County,N/A,1,0
+1527,US,Utah,Salt Lake County,N/A,1,0
+1528,US,Utah,Sanpete County,N/A,1,0
+1529,US,Utah,Tooele County,N/A,1,0
+1530,US,Utah,Uintah County,N/A,1,0
+1531,US,Utah,Utah County,N/A,1,0
+1532,US,Utah,Wasatch County,N/A,1,0
+1533,US,Utah,Weber County,N/A,1,0
+1534,US,Vermont,Addison County,N/A,1,0
+1535,US,Vermont,Bennington County,N/A,1,0
+1536,US,Vermont,Caledonia County,N/A,1,0
+1537,US,Vermont,Chittenden County,N/A,1,0
+1538,US,Vermont,Grand Isle County,N/A,1,0
+1539,US,Vermont,Lamoille County,N/A,1,0
+1540,US,Vermont,Rutland County,N/A,1,0
+1541,US,Vermont,Windsor County,N/A,1,0
+1542,US,Virginia,Accomack County,N/A,1,0
+1543,US,Virginia,Albemarle County,N/A,1,0
+1544,US,Virginia,Alexandria,N/A,1,0
+1545,US,Virginia,Amelia County,N/A,1,0
+1546,US,Virginia,Amherst County,N/A,1,0
+1547,US,Virginia,Appomattox County,N/A,1,0
+1548,US,Virginia,Arlington County,N/A,1,0
+1549,US,Virginia,Augusta County,N/A,1,0
+1550,US,Virginia,Bland County,N/A,1,0
+1551,US,Virginia,Botetourt County,N/A,1,0
+1552,US,Virginia,Bristol,N/A,1,0
+1553,US,Virginia,Buckingham County,N/A,1,0
+1554,US,Virginia,Buena Vista,N/A,1,0
+1555,US,Virginia,Charles City County,N/A,1,0
+1556,US,Virginia,Charlottesville,N/A,1,0
+1557,US,Virginia,Chesapeake,N/A,1,0
+1558,US,Virginia,Colonial Heights,N/A,1,0
+1559,US,Virginia,Covington,N/A,1,0
+1560,US,Virginia,Culpeper County,N/A,1,0
+1561,US,Virginia,Danville,N/A,1,0
+1562,US,Virginia,Dickenson County,N/A,1,0
+1563,US,Virginia,Dinwiddie County,N/A,1,0
+1564,US,Virginia,Emporia,N/A,1,0
+1565,US,Virginia,Fairfax,N/A,1,0
+1566,US,Virginia,Fairfax County,N/A,1,0
+1567,US,Virginia,Falls Church,N/A,1,0
+1568,US,Virginia,Fauquier County,N/A,1,0
+1569,US,Virginia,Fluvanna County,N/A,1,0
+1570,US,Virginia,Franklin,Columbus,1,1
+1571,US,Virginia,Fredericksburg,N/A,1,0
+1572,US,Virginia,Galax,N/A,1,0
+1573,US,Virginia,Goochland County,N/A,1,0
+1574,US,Virginia,Greensville County,N/A,1,0
+1575,US,Virginia,Hampton,N/A,1,0
+1576,US,Virginia,Hanover County,N/A,1,0
+1577,US,Virginia,Harrisonburg,N/A,1,0
+1578,US,Virginia,Henrico County,N/A,1,0
+1579,US,Virginia,Hopewell,N/A,1,0
+1580,US,Virginia,Isle of Wight County,N/A,1,0
+1581,US,Virginia,James City County,N/A,1,0
+1582,US,Virginia,King and Queen County,Seattle,1,1
+1583,US,Virginia,King George County,Seattle,1,1
+1584,US,Virginia,King William County,Seattle,1,1
+1585,US,Virginia,Lexington,N/A,1,0
+1586,US,Virginia,Loudoun County,N/A,1,0
+1587,US,Virginia,Lunenburg County,N/A,1,0
+1588,US,Virginia,Lynchburg,N/A,1,0
+1589,US,Virginia,Manassas,N/A,1,0
+1590,US,Virginia,Manassas Park,N/A,1,0
+1591,US,Virginia,Martinsville,N/A,1,0
+1592,US,Virginia,Mathews County,N/A,1,0
+1593,US,Virginia,New Kent County,N/A,1,0
+1594,US,Virginia,Newport News,N/A,1,0
+1595,US,Virginia,Norfolk,N/A,1,0
+1596,US,Virginia,Norton,N/A,1,0
+1597,US,Virginia,Nottoway County,N/A,1,0
+1598,US,Virginia,Patrick County,N/A,1,0
+1599,US,Virginia,Petersburg,N/A,1,0
+1600,US,Virginia,Pittsylvania County,N/A,1,0
+1601,US,Virginia,Poquoson,N/A,1,0
+1602,US,Virginia,Portsmouth,N/A,1,0
+1603,US,Virginia,Powhatan County,N/A,1,0
+1604,US,Virginia,Prince Edward County,N/A,1,0
+1605,US,Virginia,Prince George County,N/A,1,0
+1606,US,Virginia,Prince William County,N/A,1,0
+1607,US,Virginia,Radford,N/A,1,0
+1608,US,Virginia,Rappahannock County,N/A,1,0
+1609,US,Virginia,Richmond,Richmond,1,1
+1610,US,Virginia,Roanoke,N/A,1,0
+1611,US,Virginia,Roanoke County,N/A,1,0
+1612,US,Virginia,Rockbridge County,N/A,1,0
+1613,US,Virginia,Salem,N/A,1,0
+1614,US,Virginia,Shenandoah County,N/A,1,0
+1615,US,Virginia,Smyth County,N/A,1,0
+1616,US,Virginia,Southampton County,N/A,1,0
+1617,US,Virginia,Spotsylvania County,N/A,1,0
+1618,US,Virginia,Stafford County,N/A,1,0
+1619,US,Virginia,Staunton,N/A,1,0
+1620,US,Virginia,Suffolk,Boston,1,1
+1621,US,Virginia,Virginia Beach,Virginia Beach,1,1
+1622,US,Virginia,Waynesboro,N/A,1,0
+1623,US,Virginia,Williamsburg,N/A,1,0
+1624,US,Virginia,Winchester,N/A,1,0
+1625,US,Virginia,Wythe County,N/A,1,0
+1626,US,Washington,Asotin County,N/A,1,0
+1627,US,Washington,Chelan County,N/A,1,0
+1628,US,Washington,Clallam County,N/A,1,0
+1629,US,Washington,Cowlitz County,N/A,1,0
+1630,US,Washington,Ferry County,N/A,1,0
+1631,US,Washington,Grays Harbor County,N/A,1,0
+1632,US,Washington,Island County,N/A,1,0
+1633,US,Washington,King County,Seattle,1,1
+1634,US,Washington,Kitsap County,N/A,1,0
+1635,US,Washington,Kittitas County,N/A,1,0
+1636,US,Washington,Klickitat County,N/A,1,0
+1637,US,Washington,Okanogan County,N/A,1,0
+1638,US,Washington,Pacific County,N/A,1,0
+1639,US,Washington,Pend Oreille County,N/A,1,0
+1640,US,Washington,Skagit County,N/A,1,0
+1641,US,Washington,Skamania County,N/A,1,0
+1642,US,Washington,Snohomish County,N/A,1,0
+1643,US,Washington,Spokane County,Spokane,1,1
+1644,US,Washington,Walla Walla County,N/A,1,0
+1645,US,Washington,Whatcom County,N/A,1,0
+1646,US,Washington,Whitman County,N/A,1,0
+1647,US,Washington,Yakima County,N/A,1,0
+1648,US,West Virginia,Braxton County,N/A,1,0
+1649,US,West Virginia,Brooke County,N/A,1,0
+1650,US,West Virginia,Cabell County,N/A,1,0
+1651,US,West Virginia,Greenbrier County,N/A,1,0
+1652,US,West Virginia,Hardy County,N/A,1,0
+1653,US,West Virginia,Kanawha County,N/A,1,0
+1654,US,West Virginia,Mingo County,N/A,1,0
+1655,US,West Virginia,Monongalia County,N/A,1,0
+1656,US,West Virginia,Pleasants County,N/A,1,0
+1657,US,West Virginia,Preston County,N/A,1,0
+1658,US,West Virginia,Raleigh County,N/A,1,0
+1659,US,West Virginia,Ritchie County,N/A,1,0
+1660,US,West Virginia,Summers County,N/A,1,0
+1661,US,West Virginia,Tucker County,N/A,1,0
+1662,US,West Virginia,Wetzel County,N/A,1,0
+1663,US,West Virginia,Wirt County,N/A,1,0
+1664,US,Wisconsin,Barron County,N/A,1,0
+1665,US,Wisconsin,Bayfield County,N/A,1,0
+1666,US,Wisconsin,Burnett County,N/A,1,0
+1667,US,Wisconsin,Calumet County,N/A,1,0
+1668,US,Wisconsin,Dane County,Madison,1,1
+1669,US,Wisconsin,Door County,N/A,1,0
+1670,US,Wisconsin,Eau Claire County,N/A,1,0
+1671,US,Wisconsin,Fond du Lac County,N/A,1,0
+1672,US,Wisconsin,Forest County,N/A,1,0
+1673,US,Wisconsin,Green Lake County,N/A,1,0
+1674,US,Wisconsin,Juneau County,N/A,1,0
+1675,US,Wisconsin,Kenosha County,N/A,1,0
+1676,US,Wisconsin,Kewaunee County,N/A,1,0
+1677,US,Wisconsin,La Crosse County,N/A,1,0
+1678,US,Wisconsin,Langlade County,N/A,1,0
+1679,US,Wisconsin,Manitowoc County,N/A,1,0
+1680,US,Wisconsin,Marathon County,N/A,1,0
+1681,US,Wisconsin,Marinette County,N/A,1,0
+1682,US,Wisconsin,Milwaukee County,Milwaukee,1,1
+1683,US,Wisconsin,Oconto County,N/A,1,0
+1684,US,Wisconsin,Outagamie County,N/A,1,0
+1685,US,Wisconsin,Ozaukee County,N/A,1,0
+1686,US,Wisconsin,Pepin County,N/A,1,0
+1687,US,Wisconsin,Price County,N/A,1,0
+1688,US,Wisconsin,Racine County,N/A,1,0
+1689,US,Wisconsin,Sauk County,N/A,1,0
+1690,US,Wisconsin,Sawyer County,N/A,1,0
+1691,US,Wisconsin,Shawano County,N/A,1,0
+1692,US,Wisconsin,Sheboygan County,N/A,1,0
+1693,US,Wisconsin,St. Croix County,N/A,1,0
+1694,US,Wisconsin,Trempealeau County,N/A,1,0
+1695,US,Wisconsin,Vilas County,N/A,1,0
+1696,US,Wisconsin,Washburn County,N/A,1,0
+1697,US,Wisconsin,Waukesha County,N/A,1,0
+1698,US,Wisconsin,Waupaca County,N/A,1,0
+1699,US,Wisconsin,Waushara County,N/A,1,0
+1700,US,Wyoming,Converse County,N/A,1,0
+1701,US,Wyoming,Goshen County,N/A,1,0
+1702,US,Wyoming,Hot Springs County,N/A,1,0
+1703,US,Wyoming,Laramie County,N/A,1,0
+1704,US,Wyoming,Natrona County,N/A,1,0
+1705,US,Wyoming,Sheridan County,N/A,1,0
+1706,US,Wyoming,Sublette County,N/A,1,0
+1707,US,Wyoming,Sweetwater County,N/A,1,0
+1708,US,Wyoming,Uinta County,N/A,1,0
+1709,US,Wyoming,Washakie County,N/A,1,0
+1710,US,Wyoming,Weston County,N/A,1,0
