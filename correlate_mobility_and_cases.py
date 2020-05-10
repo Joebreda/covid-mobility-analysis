@@ -34,6 +34,42 @@ def plot_king_county():
     plt.title("number of covid cases in " + county_key_word)
     plt.show()
 
+def total_cases():
+    covid_cases_path = 'data/time_series_covid19_confirmed_US.csv'
+    covid_cases_df = pd.read_csv(covid_cases_path)
+
+    locations = covid_cases_df.Combined_Key.values
+    countries = []
+    states = []
+    counties = []
+    for location in locations:
+        location = location.split(",")
+        if len(location) == 3:
+            counties.append(location[0])
+            states.append(location[1].replace(" ", "")) # remove spaces from county names
+            countries.append(location[2].replace(" ", ""))
+        else:
+            counties.append(location[0])
+            states.append("N/A")
+            countries.append(location[1])
+    country_col = pd.DataFrame({'country': countries})
+    state_col = pd.DataFrame({'state': states})
+    county_col = pd.DataFrame({'county': counties})
+    total_cases = country_col.join(state_col)
+    total_cases = total_cases.join(county_col)
+
+    columns = covid_cases_df.columns
+    dates = columns[11:].values
+
+
+    # subtract previous day count from current day count to get daily new cases
+    for i, cur_date in enumerate(dates):
+        cur_date_data = covid_cases_df[cur_date].values
+        dated_total_cases_col = pd.DataFrame({cur_date: cur_date_data})
+        total_cases = total_cases.join(dated_total_cases_col)
+
+    return total_cases
+
 
 def new_cases_timeseries_table():
     covid_cases_path = 'data/time_series_covid19_confirmed_US.csv'

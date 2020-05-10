@@ -6,6 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import datetime
 from correlate_mobility_and_cases import new_cases_timeseries_table
+from correlate_mobility_and_cases import total_cases
 from correlate_mobility_and_cases import google_county_naming_2_covid_county_naming
 from scipy.stats import spearmanr
 
@@ -147,37 +148,34 @@ def create_mini_dataset():
 
 def spearman_correlation_on_mini():
     new_cases = new_cases_timeseries_table()
+    total_cases_df = total_cases()
 
     washington_workplace_mobility = pd.read_csv('data/washington_counties/workplaces.csv')
     new_header = washington_workplace_mobility.iloc[0] #grab the first row for the header
     washington_workplace_mobility = washington_workplace_mobility[1:] #take the data less the header row
     washington_workplace_mobility.columns = new_header #set the header row as the df header
     dates = list(washington_workplace_mobility.columns[3:])
-    print(dates)
-
-    print(new_cases)
-    print(new_cases.columns)
 
     for state, county in zip(washington_workplace_mobility.state.values, washington_workplace_mobility.county.values):
-        covid_county_timeseries = new_cases[(new_cases['state'] == state) & (new_cases['county'] == county)]
+        covid_county_timeseries = total_cases_df[(total_cases_df['state'] == state) & (total_cases_df['county'] == county)]
         mobility_county_timeseries = washington_workplace_mobility[(washington_workplace_mobility['state'] == state) & (washington_workplace_mobility['county'] == county)]
 
         print(state, county)
         #print(len(covid_county_timeseries[dates].values[0]))
         #print(len(mobility_county_timeseries.values[0][3:]))
 
-        this_county_covid_new_cases = covid_county_timeseries[dates].values[0]
+        this_county_covid_total_cases = covid_county_timeseries[dates].values[0]
         this_county_workplace_mobility = mobility_county_timeseries.values[0][3:]
 
-        corr = spearmanr(this_county_covid_new_cases, this_county_workplace_mobility)
+        corr = spearmanr(this_county_covid_total_cases, this_county_workplace_mobility)
 
         print(corr)
-
-
+    
         if county == "King" or county == "Snohomish":
-            plt.plot(this_county_covid_new_cases)
+            plt.plot(this_county_covid_total_cases)
             plt.plot(this_county_workplace_mobility)
             plt.show()
+    
 
 # TODO USE TOTAL CASES NOT NEW CASES FOR SPEARMAN BECAUSE IT USES MONOTONICITY
 # TODO LOWPASS FILTER BOTH FOR PLOT
