@@ -1,6 +1,10 @@
 Social_Distancing_clean: Google Colab file to clean SafeGraph Data.
+
 Condense each month/date file into a month file.
 Raw Social Data stored in: COVID19 data analysis/safegraph/social-distancing/2020/
 Raw CBG data: COVID19 data analysis/safegraph/safegraph_open_census_data/metadata/cbg_fips_codes.csv
-Processed data at COVID19 data analysis/safegraph/social-distancing/2020/ , named as month_county_level_device_home
+Processed data in feather format at: COVID19 data analysis/safegraph/social-distancing/2020/ , named as month_county_level_device_home
 Currently months : 01,02,03,04 (not all dates)
+
+Social_Distancing_metric: Google Colab file to estimate change in stay at home devices pos t covid
+Processed data in feather format at: COVID19 data analysis/safegraph/social-distancing/2020/_calculated_stay_at_homeFeb_7_till_April_24 and COVID19 data analysis/safegraph/social-distancing/2020/_calculated_median_weekly_Jan_7_till_Feb_6th'
