@@ -8,3 +8,6 @@ Currently months : 01,02,03,04 (not all dates)
 
 Social_Distancing_metric: Google Colab file to estimate change in stay at home devices pos t covid
 Processed data in feather format at: COVID19 data analysis/safegraph/social-distancing/2020/_calculated_stay_at_homeFeb_7_till_April_24 and COVID19 data analysis/safegraph/social-distancing/2020/_calculated_median_weekly_Jan_7_till_Feb_6th'
+
+
+Social_Distancing_graph: Plots safe graph data. Needs county mapped to fips code.
