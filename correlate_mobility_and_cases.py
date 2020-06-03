@@ -221,11 +221,9 @@ def format_mobility_like_covid_data():
     mobility_states = mobility_table.state.values
     mobility_states = mobility_states[1:] # remove the NAN thats in the first row
 
-    apple_data_path = "data/applemobilitytrends-2020-05-03.csv"
     google_data_path = "data/Google_Global_Mobility_Report.csv"
     google_df = pd.read_csv(google_data_path)
     google_df = google_df.loc[google_df['country_region'] == "United States"]
-    apple_df = pd.read_csv(apple_data_path)
 
     earliest_end_date_string, earliest_end_date, latest_start_date_string, latest_start_date = get_common_start_and_end_dates(mobility_table, google_df)
     
@@ -301,9 +299,10 @@ def format_mobility_like_covid_data():
     residential_df.to_csv("data/split_google_metrics/residential.csv")
     print("split google mobility data columns into 6 files with similar structure to covid data")
     '''
+    print(retail_df)
 
     
-#format_mobility_like_covid_data()
+format_mobility_like_covid_data()
 
 
 
