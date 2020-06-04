@@ -34,7 +34,7 @@ def load_and_plot_covid_confirmed_cases_data(county_key_word):
     plt.xlabel("date")
     plt.ylabel("new death cases")
     plt.title("number of new covid cases in " + county_key_word)
-    fig.savefig('results/new_confirmed_cases.png')
+    fig.savefig('results/Mariposa_new_confirmed_cases.png')
 
     county_covid_cases_delta = moving_average(county_covid_cases_delta)
     county_covid_cases_delta = stats.zscore(county_covid_cases_delta)
@@ -44,13 +44,13 @@ def load_and_plot_covid_confirmed_cases_data(county_key_word):
     plt.xlabel("date")
     plt.ylabel("new death cases")
     plt.title("number of new covid cases filtered in " + county_key_word)
-    fig.savefig('results/new_confirmed_cases_filtered.png')
+    fig.savefig('results/Mariposa_new_confirmed_cases_filtered.png')
     return county_covid_cases_delta
 
 
 
 def load_and_plot_mobility(mobility_data_type_index):
-    with open('mobility_king_county.csv','r') as csvfile:
+    with open('mobility_Mariposa.csv','r') as csvfile:
         data = csv.reader(csvfile, delimiter = ',')
         mobility_data = list(data)
 
@@ -65,7 +65,7 @@ def load_and_plot_mobility(mobility_data_type_index):
     # plt.xticks(xticks_date_index, xticks_date, rotation=20) 
     plt.xlabel("date")
     plt.ylabel("mobility rate change")
-    plt.title(mobility_data_type_name[mobility_data_type_index] + " rate in King County")
+    plt.title(mobility_data_type_name[mobility_data_type_index] + " rate in San Francisco County")
     fig.savefig('results/'+mobility_data_type_name[mobility_data_type_index]+'_mobility.png')
 
     mobility_type_data = moving_average(mobility_type_data)    
@@ -75,7 +75,7 @@ def load_and_plot_mobility(mobility_data_type_index):
     # plt.xticks(xticks_date_index, xticks_date, rotation=20) 
     plt.xlabel("date")
     plt.ylabel("mobility rate change")
-    plt.title(mobility_data_type_name[mobility_data_type_index] + " rate filtered in King County")
+    plt.title(mobility_data_type_name[mobility_data_type_index] + " rate filtered in San Francisco")
     fig.savefig('results/'+mobility_data_type_name[mobility_data_type_index]+'_filtered_mobility.png')
 
     return mobility_type_data
@@ -103,7 +103,8 @@ def compute_dtw(county_covid_cases_delta, mobility_type_data, mobility_data_type
 
 def main():
     mobility_data_type_index = 5
-    county_covid_cases_delta = load_and_plot_covid_confirmed_cases_data("King, Washington, US")
+    county_name = "Mariposa, California, US"
+    county_covid_cases_delta = load_and_plot_covid_confirmed_cases_data(county_name)
     mobility_type_data = load_and_plot_mobility(mobility_data_type_index)
     compute_dtw(county_covid_cases_delta, mobility_type_data, mobility_data_type_index)
     # compute_dtw(county_covid_cases_delta[40:], mobility_type_data[30:-10], mobility_data_type_index)
