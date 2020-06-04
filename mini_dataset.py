@@ -9,12 +9,19 @@ from correlate_mobility_and_cases import new_cases_timeseries_table
 from correlate_mobility_and_cases import total_cases
 from correlate_mobility_and_cases import google_county_naming_2_covid_county_naming
 from scipy.stats import spearmanr
+import math
 
 
 def google_date_2_covid_date(google_date):
     date_time = datetime.datetime.strptime(google_date, '%Y-%m-%d')
     covid_date = datetime.datetime.strftime(date_time, '%-m/%-d/%y')
     return covid_date
+
+def first_row_2_header(df):
+    new_header = df.iloc[0] #grab the first row for the header
+    df = df[1:] #take the data less the header row
+    df.columns = new_header #set the header row as the df header
+    return df
 
 def create_mini_dataset():
     new_cases = new_cases_timeseries_table()
@@ -119,18 +126,13 @@ def create_mini_dataset():
     transit_rows = [["state", "county"] + col_dates] + transit_rows
     workplaces_rows = [["state", "county"] + col_dates] + workplaces_rows
     residential_rows = [["state", "county"] + col_dates] + residential_rows
-    '''
-    for row in retail_rows:
-        print(len(row))
-        print(row)
-    '''
-    retail_df = pd.DataFrame(retail_rows)
 
-    grocery_df = pd.DataFrame(grocery_rows)
-    park_df = pd.DataFrame(park_rows)
-    transit_df = pd.DataFrame(transit_rows)
-    workplaces_df = pd.DataFrame(workplaces_rows)
-    residential_df = pd.DataFrame(residential_rows)
+    retail_df = first_row_2_header(pd.DataFrame(retail_rows))
+    grocery_df = first_row_2_header(pd.DataFrame(grocery_rows))
+    park_df = first_row_2_header(pd.DataFrame(park_rows))
+    transit_df = first_row_2_header(pd.DataFrame(transit_rows))
+    workplaces_df = first_row_2_header(pd.DataFrame(workplaces_rows))
+    residential_df = first_row_2_header(pd.DataFrame(residential_rows))
 
     save_path = "data/washington_counties"
     retail_df.to_csv("{}/retail.csv".format(save_path))
@@ -151,34 +153,107 @@ def spearman_correlation_on_mini():
     total_cases_df = total_cases()
 
     washington_workplace_mobility = pd.read_csv('data/washington_counties/workplaces.csv')
-    new_header = washington_workplace_mobility.iloc[0] #grab the first row for the header
-    washington_workplace_mobility = washington_workplace_mobility[1:] #take the data less the header row
-    washington_workplace_mobility.columns = new_header #set the header row as the df header
     dates = list(washington_workplace_mobility.columns[3:])
 
+
+    plot_county_names = []
+    plot_corr = []
+    p_vals = []
     for state, county in zip(washington_workplace_mobility.state.values, washington_workplace_mobility.county.values):
+        
         covid_county_timeseries = total_cases_df[(total_cases_df['state'] == state) & (total_cases_df['county'] == county)]
-        mobility_county_timeseries = washington_workplace_mobility[(washington_workplace_mobility['state'] == state) & (washington_workplace_mobility['county'] == county)]
+        workplace_mobility = washington_workplace_mobility[(washington_workplace_mobility['state'] == state) & (washington_workplace_mobility['county'] == county)]
 
         print(state, county)
-        #print(len(covid_county_timeseries[dates].values[0]))
-        #print(len(mobility_county_timeseries.values[0][3:]))
 
         this_county_covid_total_cases = covid_county_timeseries[dates].values[0]
-        this_county_workplace_mobility = mobility_county_timeseries.values[0][3:]
+        this_county_workplace_mobility = workplace_mobility.values[0][3:]
 
-        corr = spearmanr(this_county_covid_total_cases, this_county_workplace_mobility)
 
-        print(corr)
+        # lowpass filtering
+        '''
+        print(len(this_county_workplace_mobility))
+        window_size = 7
+        workplace_mobility_series = pd.Series(this_county_workplace_mobility)
+        windows = workplace_mobility_series.rolling(window_size)
+        moving_averages = windows.mean()
+        this_county_workplace_mobility = moving_averages.tolist()
+        this_county_workplace_mobility = this_county_workplace_mobility[window_size - 1:]
+        this_county_covid_total_cases = this_county_covid_total_cases[window_size - 1:]
+        dates = dates[window_size - 1:]
+        '''
+
+        spearman_results = spearmanr(this_county_covid_total_cases, this_county_workplace_mobility) 
+        corr = spearman_results.correlation
+        p = spearman_results.pvalue
+
+        if not math.isnan(corr):
+            print(corr, p)
+            plot_county_names.append(county)
+            plot_corr.append(-1*corr)
+            p_vals.append(p)
+
+
+    min_p_val = min(p_vals)
+    max_p_val = max(p_vals)
+
+    print(min_p_val, max_p_val)
+
+    width = 0.35
+    x = np.arange(len(plot_county_names))  # the label locations
+    fig = plt.figure(figsize=(15,5),facecolor='w') 
+    plt.tight_layout()
+    plt.subplots_adjust(bottom=0.25)
+    plt.bar(x - width/2, plot_corr, width)
+    plt.title('Spearman Correlation of Daily Negative Mobility and Covid Cases by County in Washington State')
+    plt.xticks(x, plot_county_names, fontsize=8, rotation=45)
+    plt.xlabel('Washington State Counties')
+    plt.ylabel('Spearman Correlation Coefficient')
+    plt.show()
+
     
-        if county == "King" or county == "Snohomish":
-            plt.plot(this_county_covid_total_cases)
-            plt.plot(this_county_workplace_mobility)
+
+def dtw():
+    from dtw import dtw,accelerated_dtw
+
+    new_cases = new_cases_timeseries_table()
+    total_cases_df = total_cases()
+
+    washington_workplace_mobility = pd.read_csv('data/washington_counties/workplaces.csv')
+    dates = list(washington_workplace_mobility.columns[3:])
+
+
+    plot_county_names = []
+    plot_corr = []
+    p_vals = []
+    for state, county in zip(washington_workplace_mobility.state.values, washington_workplace_mobility.county.values):
+        
+        covid_county_timeseries = total_cases_df[(total_cases_df['state'] == state) & (total_cases_df['county'] == county)]
+        workplace_mobility = washington_workplace_mobility[(washington_workplace_mobility['state'] == state) & (washington_workplace_mobility['county'] == county)]
+
+        print(state, county)
+
+        this_county_covid_total_cases = covid_county_timeseries[dates].interpolate().values[0]
+        this_county_workplace_mobility = workplace_mobility.interpolate().values[0][3:]
+
+        if county == 'King':
+            d, cost_matrix, acc_cost_matrix, path = accelerated_dtw(this_county_workplace_mobility, this_county_covid_total_cases, dist='euclidean')
+
+            plt.imshow(acc_cost_matrix.T, origin='lower', cmap='gray', interpolation='nearest')
+            plt.plot(path[0], path[1], 'w')
+            plt.xlabel('Subject1')
+            plt.ylabel('Subject2')
+            plt.title(f'DTW Minimum Path with minimum distance: {np.round(d,2)}')
             plt.show()
-    
 
-# TODO USE TOTAL CASES NOT NEW CASES FOR SPEARMAN BECAUSE IT USES MONOTONICITY
-# TODO LOWPASS FILTER BOTH FOR PLOT
 
 #create_mini_dataset()
+'''
+states = ['Washington', 'New York', 'Massachusetts', 'California']
+counties = ['King', 'New York City', 'Sufolk', 'San Francisco']
+for state in states:
+    for county in counties:
+        spearman_correlation_on_mini(state, county)
+        '''
 spearman_correlation_on_mini()
+#dtw()
